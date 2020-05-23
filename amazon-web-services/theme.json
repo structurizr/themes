@@ -1,6 +1,6 @@
 {
   "name": "Amazon Web Services",
-  "description": "Icons for AWS services.",
+  "description": "Icons for AWS services - see https://aws.amazon.com/architecture/icons/ for more details.",
   "elements" : [ {
     "tag" : "AWS Thinkbox Stoke",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox-Stoke@4x.png"
