@@ -1,4 +1,6 @@
 {
+  "name" : "Amazon Web Services",
+  "description" : "This theme includes element styles with icons for each of the AWS services, based upon the AWS Architecture Icons (https://aws.amazon.com/architecture/icons/).",
   "elements" : [ {
     "tag" : "Amazon Web Services - Kinesis Data Analytics",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Kinesis-Data-Analytics_light-bg@4x.png"
