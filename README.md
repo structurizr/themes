@@ -8,3 +8,10 @@ This theme includes element styles with icons for each of the AWS services, base
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/theme.json)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/theme.json)
+
+## Google Cloud Platform
+
+This theme includes element styles with icons for each of the GCP services, based upon the [the official set of icons to build architectural diagrams of Google Cloud Platform](https://cloud.google.com/icons). 
+
+- [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/theme.json)
+- [JSON](https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/theme.json)
