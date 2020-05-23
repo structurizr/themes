@@ -22,3 +22,10 @@ This theme includes element styles with icons for each of the Kubernetes compone
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/kubernetes/theme.json)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/kubernetes/theme.json)
+
+## Oracle Cloud Infrastructure
+
+This theme includes element styles with icons for each of the OCI services, based upon the [Graphics for Topologies and Diagrams](https://docs.cloud.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm).
+
+- [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/oracle-cloud-infrastructure/theme.json)
+- [JSON](https://raw.githubusercontent.com/structurizr/themes/master/oracle-cloud-infrastructure/theme.json)
