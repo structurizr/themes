@@ -11,7 +11,14 @@ This theme includes element styles with icons for each of the AWS services, base
 
 ## Google Cloud Platform
 
-This theme includes element styles with icons for each of the GCP services, based upon the [the official set of icons to build architectural diagrams of Google Cloud Platform](https://cloud.google.com/icons). 
+This theme includes element styles with icons for each of the GCP services, based upon the [official set of icons to build architectural diagrams of Google Cloud Platform](https://cloud.google.com/icons). 
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/theme.json)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/theme.json)
+
+## Kubernetes
+
+This theme includes element styles with icons for each of the Kubernetes components/resources, based upon the [Kubernetes Icons Set](https://github.com/kubernetes/community/tree/master/icons). 
+
+- [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/kubernetes/theme.json)
+- [JSON](https://raw.githubusercontent.com/structurizr/themes/master/kubernetes/theme.json)
