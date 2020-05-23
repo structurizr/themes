@@ -1,0 +1,552 @@
+{
+  "elements" : [ {
+    "tag" : "AWS Thinkbox Stoke",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox-Stoke@4x.png"
+  }, {
+    "tag" : "AWS Migration Hub",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Migration-Hub@4x.png"
+  }, {
+    "tag" : "AWS Auto Scaling",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Auto-Scaling@4x.png"
+  }, {
+    "tag" : "Amazon Comprehend",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Comprehend@4x.png"
+  }, {
+    "tag" : "AWS IoT SiteWise",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-SiteWise@4x.png"
+  }, {
+    "tag" : "AWS Amplify",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Amplify@4x.png"
+  }, {
+    "tag" : "AWS Organizations",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Organizations@4x.png"
+  }, {
+    "tag" : "AWS Thinkbox_XMesh",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox_XMesh@4x.png"
+  }, {
+    "tag" : "Amazon WorkDocs",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-WorkDocs@4x.png"
+  }, {
+    "tag" : "AWS DeepLens",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-DeepLens@4x.png"
+  }, {
+    "tag" : "Elastic Load Balancing",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Elastic-Load-Balancing@4x.png"
+  }, {
+    "tag" : "TensorFlow on AWS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/TensorFlow-on-AWS@4x.png"
+  }, {
+    "tag" : "AWS Fargate",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Fargate@4x.png"
+  }, {
+    "tag" : "Amazon GameLift",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-GameLift@4x.png"
+  }, {
+    "tag" : "AWS Identity and Access Management_IAM",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Identity-and-Access-Management_IAM@4x.png"
+  }, {
+    "tag" : "Amazon Simple Notification Service SNS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Simple-Notification-Service-SNS@4x.png"
+  }, {
+    "tag" : "Amazon API Gateway",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-API-Gateway@4x.png"
+  }, {
+    "tag" : "Amazon CloudSearch",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-CloudSearch@4x.png"
+  }, {
+    "tag" : "AWS Command Line Interface",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Command-Line-Interface@4x.png"
+  }, {
+    "tag" : "AWS Management Console",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Management-Console@4x.png"
+  }, {
+    "tag" : "Amazon Rekognition",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Rekognition@4x.png"
+  }, {
+    "tag" : "AWS Managed Services",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Managed-Services@4x.png"
+  }, {
+    "tag" : "Amazon Pinpoint",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Pinpoint@4x.png"
+  }, {
+    "tag" : "AWS Elastic Beanstalk",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Elastic-Beanstalk@4x.png"
+  }, {
+    "tag" : "AWS Outposts",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Outposts@4x.png"
+  }, {
+    "tag" : "Amazon Connect",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Connect@4x.png"
+  }, {
+    "tag" : "Amazon SageMaker Ground Truth",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-SageMaker-Ground-Truth@4x.png"
+  }, {
+    "tag" : "AWS Server Migration Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Server-Migration-Service@4x.png"
+  }, {
+    "tag" : "AWS PrivateLink",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-PrivateLink@4x.png"
+  }, {
+    "tag" : "AWS CloudHSM",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CloudHSM@4x.png"
+  }, {
+    "tag" : "AWS X Ray",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-X-Ray@4x.png"
+  }, {
+    "tag" : "AWS Elemental MediaConnect",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Elemental-MediaConnect@4x.png"
+  }, {
+    "tag" : "AWS Snowball",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Snowball@4x.png"
+  }, {
+    "tag" : "AWS CodePipeline",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CodePipeline@4x.png"
+  }, {
+    "tag" : "Amazon EC2 Container Registry",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-EC2-Container-Registry@4x.png"
+  }, {
+    "tag" : "Amazon Polly",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Polly@4x.png"
+  }, {
+    "tag" : "Amazon Inspector",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Inspector@4x.png"
+  }, {
+    "tag" : "Amazon Personalize",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Personalize@4x.png"
+  }, {
+    "tag" : "Amazon Cognito",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Cognito@4x.png"
+  }, {
+    "tag" : "AWS CloudTrail",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CloudTrail@4x.png"
+  }, {
+    "tag" : "AWS Snowmobile",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Snowmobile@4x.png"
+  }, {
+    "tag" : "Amazon Elastic Block Store EBS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Elastic-Block-Store-EBS@4x.png"
+  }, {
+    "tag" : "AWS OpsWorks",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-OpsWorks@4x.png"
+  }, {
+    "tag" : "AWS Cloud Development Kit",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Cloud-Development-Kit@4x.png"
+  }, {
+    "tag" : "AWS Ground Station",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Ground-Station@4x.png"
+  }, {
+    "tag" : "Amazon Sumerian",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Sumerian@4x.png"
+  }, {
+    "tag" : "AWS Elemental MediaStore",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Elemental-MediaStore@4x.png"
+  }, {
+    "tag" : "AWS License Manager",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-License-Manager@4x.png"
+  }, {
+    "tag" : "Amazon ElastiCache",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-ElastiCache@4x.png"
+  }, {
+    "tag" : "AWS Artifact",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Artifact@4x.png"
+  }, {
+    "tag" : "Amazon WorkLink",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-WorkLink@4x.png"
+  }, {
+    "tag" : "AWS IoT Analytics",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Analytics@4x.png"
+  }, {
+    "tag" : "Amazon CloudWatch",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-CloudWatch@4x.png"
+  }, {
+    "tag" : "AWS IoT Devicr Management",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Devicr-Management@4x.png"
+  }, {
+    "tag" : "Amazon DocumentDB with MongoDB compatibility",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-DocumentDB-with-MongoDB-compatibility@4x.png"
+  }, {
+    "tag" : "AWS Deep Learning Containers",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Deep-Learning-Containers@4x.png"
+  }, {
+    "tag" : "Amazon EMR",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-EMR@4x.png"
+  }, {
+    "tag" : "AWS Thinkbox Draft",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox-Draft@4x.png"
+  }, {
+    "tag" : "Amazon Neptune",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Neptune@4x.png"
+  }, {
+    "tag" : "AWS Backup",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Backup@4x.png"
+  }, {
+    "tag" : "Amazon Simple Storage Service S3",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Simple-Storage-Service-S3@4x.png"
+  }, {
+    "tag" : "Amazon Textract",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Textract@4x.png"
+  }, {
+    "tag" : "Amazon Macie",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Macie@4x.png"
+  }, {
+    "tag" : "Amazon GuardDuty",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-GuardDuty@4x.png"
+  }, {
+    "tag" : "AWS Firewall Manager",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Firewall-Manager@4x.png"
+  }, {
+    "tag" : "AWS Trusted Advisor",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Trusted-Advisor@4x.png"
+  }, {
+    "tag" : "Amazon Elastic File System_EFS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Elastic-File-System_EFS@4x.png"
+  }, {
+    "tag" : "Amazon RDS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS@4x.png"
+  }, {
+    "tag" : "Amazon Kinesis Video Streams",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Kinesis-Video-Streams@4x.png"
+  }, {
+    "tag" : "AWS Systems Manager",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Systems-Manager@4x.png"
+  }, {
+    "tag" : "Amazon Redshift",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Redshift@4x.png"
+  }, {
+    "tag" : "Amazon Elastic Kubernetes Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Elastic-Kubernetes-Service@4x.png"
+  }, {
+    "tag" : "AWS Database Migration Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Database-Migration-Service@4x.png"
+  }, {
+    "tag" : "AWS DeepRacer",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-DeepRacer@4x.png"
+  }, {
+    "tag" : "AWS IoT Events",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Events@4x.png"
+  }, {
+    "tag" : "AWS Thinkbox Deadline",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox-Deadline@4x.png"
+  }, {
+    "tag" : "AWS AppSync",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-AppSync@4x.png"
+  }, {
+    "tag" : "Amazon EventBridge",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-EventBridge@4x.png"
+  }, {
+    "tag" : "Amazon Kinesis Data Firehose",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Kinesis-Data-Firehose@4x.png"
+  }, {
+    "tag" : "VMware Cloud On AWS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/VMware-Cloud-On-AWS@4x.png"
+  }, {
+    "tag" : "Amazon CloudFront",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-CloudFront@4x.png"
+  }, {
+    "tag" : "Amazon Transcribe",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Transcribe@4x.png"
+  }, {
+    "tag" : "AWS Well Architected Tool",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Well-Architected-Tool@4x.png"
+  }, {
+    "tag" : "AWS Service Catalog",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Service-Catalog@4x.png"
+  }, {
+    "tag" : "AWS Deep Learning AMIs",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Deep-Learning-AMIs@4x.png"
+  }, {
+    "tag" : "AWS Site to Site VPN",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Site-to-Site-VPN@4x.png"
+  }, {
+    "tag" : "Amazon Quantum Ledger Database_QLDB",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Quantum-Ledger-Database_QLDB@4x.png"
+  }, {
+    "tag" : "AWS Global Accelerator",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Global-Accelerator@4x.png"
+  }, {
+    "tag" : "AWS Transit Gateway",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Transit-Gateway@4x.png"
+  }, {
+    "tag" : "Amazon Kinesis Data Analytics",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Kinesis-Data-Analytics@4x.png"
+  }, {
+    "tag" : "AWS IoT Button",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Button@4x.png"
+  }, {
+    "tag" : "AWS Secrets Manager",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Secrets-Manager@4x.png"
+  }, {
+    "tag" : "AWS Resource Access Manager",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Resource-Access-Manager@4x.png"
+  }, {
+    "tag" : "Amazon Forecast",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Forecast@4x.png"
+  }, {
+    "tag" : "AWS WAF",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-WAF@4x.png"
+  }, {
+    "tag" : "AWS IoT Things Graph",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Things-Graph@4x.png"
+  }, {
+    "tag" : "AWS Shield",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Shield@4x.png"
+  }, {
+    "tag" : "AWS Certificate Manager",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Certificate-Manager@4x.png"
+  }, {
+    "tag" : "Amazon FreeRTOS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-FreeRTOS@4x.png"
+  }, {
+    "tag" : "Amazon Simple Email Service SES",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Simple-Email-Service-SES@4x.png"
+  }, {
+    "tag" : "Alexa For Business",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Alexa-For-Business@4x.png"
+  }, {
+    "tag" : "AWS Device Farm",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Device-Farm@4x.png"
+  }, {
+    "tag" : "Amazon Route 53",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Route-53@4x.png"
+  }, {
+    "tag" : "Amazon Quantum Ledger Database QLDB",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Quantum-Ledger-Database-QLDB@4x.png"
+  }, {
+    "tag" : "AWS Snowball Edge",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Snowball-Edge@4x.png"
+  }, {
+    "tag" : "Amazon EC2",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-EC2@4x.png"
+  }, {
+    "tag" : "AWS Direct Connect",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Direct-Connect@4x.png"
+  }, {
+    "tag" : "AWS Glue",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Glue@4x.png"
+  }, {
+    "tag" : "AWS Thinkbox Sequoia",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox-Sequoia@4x.png"
+  }, {
+    "tag" : "Amazon Appstream 2.0",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Appstream-2.0@4x.png"
+  }, {
+    "tag" : "Amazon SageMaker",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-SageMaker@4x.png"
+  }, {
+    "tag" : "AWS CodeStar",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CodeStar@4x.png"
+  }, {
+    "tag" : "AWS Elemental MediaPackage",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Elemental-MediaPackage@4x.png"
+  }, {
+    "tag" : "AWS IoT 1 Click",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-1-Click@4x.png"
+  }, {
+    "tag" : "Amazon Lex",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Lex@4x.png"
+  }, {
+    "tag" : "AWS Client VPN",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Client-VPN@4x.png"
+  }, {
+    "tag" : "AWS IoT Core",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Core@4x.png"
+  }, {
+    "tag" : "AWS Batch",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Batch@4x.png"
+  }, {
+    "tag" : "Amazon Lightsail",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Lightsail@4x.png"
+  }, {
+    "tag" : "AWS Cost and Usage Report",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Cost-and-Usage-Report@4x.png"
+  }, {
+    "tag" : "AWS RoboMaker",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-RoboMaker@4x.png"
+  }, {
+    "tag" : "Amazon DynamoDB",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-DynamoDB@4x.png"
+  }, {
+    "tag" : "Amazon Kinesis Data Streams",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Kinesis-Data-Streams@4x.png"
+  }, {
+    "tag" : "Amazon Workspaces",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Workspaces@4x.png"
+  }, {
+    "tag" : "AWS IoT Greengrass",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Greengrass@4x.png"
+  }, {
+    "tag" : "Amazon Elastic Inference",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Elastic-Inference@4x.png"
+  }, {
+    "tag" : "Amazon Elasticsearch Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Elasticsearch-Service@4x.png"
+  }, {
+    "tag" : "Amazon Timestream",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Timestream@4x.png"
+  }, {
+    "tag" : "AWS Cloud Map",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Cloud-Map@4x.png"
+  }, {
+    "tag" : "AWS CodeCommit",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CodeCommit@4x.png"
+  }, {
+    "tag" : "AWS Step Functions",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Step-Functions@4x.png"
+  }, {
+    "tag" : "AWS Control Tower",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Control-Tower@4x.png"
+  }, {
+    "tag" : "AWS Lake Formation",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Lake-Formation@4x.png"
+  }, {
+    "tag" : "AWS IQ",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IQ@4x.png"
+  }, {
+    "tag" : "AWS App Mesh",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-App-Mesh@4x.png"
+  }, {
+    "tag" : "AWS Application Discovery Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Application-Discovery-Service@4x.png"
+  }, {
+    "tag" : "Amazon RDS on VMware",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS-on-VMware@4x.png"
+  }, {
+    "tag" : "AWS Tools And SDKs",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Tools-And-SDKs@4x.png"
+  }, {
+    "tag" : "AWS Storage Gateway",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Storage-Gateway@4x.png"
+  }, {
+    "tag" : "AWS Thinkbox Frost",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox-Frost@4x.png"
+  }, {
+    "tag" : "AWS IoT Device Defender",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Device-Defender@4x.png"
+  }, {
+    "tag" : "Amazon Athena",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Athena@4x.png"
+  }, {
+    "tag" : "Amazon Translate",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Translate@4x.png"
+  }, {
+    "tag" : "AWS Serverless Application Repository",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Serverless-Application-Repository@4x.png"
+  }, {
+    "tag" : "Amazon VPC",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-VPC@4x.png"
+  }, {
+    "tag" : "AWS CloudFormation",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CloudFormation@4x.png"
+  }, {
+    "tag" : "AWS Thinkbox Krakatoa",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Thinkbox-Krakatoa@4x.png"
+  }, {
+    "tag" : "AWS Config",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Config@4x.png"
+  }, {
+    "tag" : "Amazon FSx for Windows File Server",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-FSx-for-Windows-File-Server@4x.png"
+  }, {
+    "tag" : "AWS Budgets",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Budgets@4x.png"
+  }, {
+    "tag" : "Amazon Elastic Transcoder",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Elastic-Transcoder@4x.png"
+  }, {
+    "tag" : "Amazon FSx",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-FSx@4x.png"
+  }, {
+    "tag" : "Amazon Chime",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Chime@4x.png"
+  }, {
+    "tag" : "AWS Data Pipeline",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Data-Pipeline@4x.png"
+  }, {
+    "tag" : "AWS Lambda",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Lambda@4x.png"
+  }, {
+    "tag" : "Amazon Aurora",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Aurora@4x.png"
+  }, {
+    "tag" : "Amazon S3 Glacier",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-S3-Glacier@4x.png"
+  }, {
+    "tag" : "Amazon Elastic Container Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Elastic-Container-Service@4x.png"
+  }, {
+    "tag" : "AWS Directory Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Directory-Service@4x.png"
+  }, {
+    "tag" : "Amazon Managed Streaming for Kafka",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Managed-Streaming-for-Kafka@4x.png"
+  }, {
+    "tag" : "AWS Key Management Service",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Key-Management-Service@4x.png"
+  }, {
+    "tag" : "AWS DataSync",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-DataSync@4x.png"
+  }, {
+    "tag" : "AWS Marketplace",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Marketplace@4x.png"
+  }, {
+    "tag" : "AWS Security Hub",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Security-Hub@4x.png"
+  }, {
+    "tag" : "Amazon Kinesis",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Kinesis@4x.png"
+  }, {
+    "tag" : "AWS CodeDeploy",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CodeDeploy@4x.png"
+  }, {
+    "tag" : "Amazon Cloud Directory",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Cloud-Directory@4x.png"
+  }, {
+    "tag" : "Amazon Managed Blockchain",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Managed-Blockchain@4x.png"
+  }, {
+    "tag" : "AWS Cost Explorer",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Cost-Explorer@4x.png"
+  }, {
+    "tag" : "AWS Single Sign On",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Single-Sign-On@4x.png"
+  }, {
+    "tag" : "AWS Elemental MediaConvert",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Elemental-MediaConvert@4x.png"
+  }, {
+    "tag" : "Amazon AppSync",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-AppSync@4x.png"
+  }, {
+    "tag" : "Amazon MQ",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-MQ@4x.png"
+  }, {
+    "tag" : "Amazon FSx for Lustre",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-FSx-for-Lustre@4x.png"
+  }, {
+    "tag" : "Amazon Simple Queue Service SQS",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Simple-Queue-Service-SQS@4x.png"
+  }, {
+    "tag" : "AWS Cost Management",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Cost-Management@4x.png"
+  }, {
+    "tag" : "AWS Elemental MediaLive",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Elemental-MediaLive@4x.png"
+  }, {
+    "tag" : "AWS CodeBuild",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CodeBuild@4x.png"
+  }, {
+    "tag" : "AWS Personal Health Dashboard",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Personal-Health-Dashboard@4x.png"
+  }, {
+    "tag" : "Amazon Quicksight",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Quicksight@4x.png"
+  }, {
+    "tag" : "AWS Cloud9",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Cloud9@4x.png"
+  }, {
+    "tag" : "Amazon WorkMail",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-WorkMail@4x.png"
+  }, {
+    "tag" : "AWS Elemental MediaTailor",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Elemental-MediaTailor@4x.png"
+  } ]
+}
