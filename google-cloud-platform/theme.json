@@ -73,8 +73,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Transfer Appliance.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Inference API",
-    "stroke" : "#e7f0fe",
-    "color" : "#e7f0fe",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Inference API.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Dataflow",
@@ -103,8 +103,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Load Balancing.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Data Fusion",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Data Fusion.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Translation API",
@@ -138,8 +138,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Console.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud NAT",
-    "stroke" : "#f3f7fe",
-    "color" : "#f3f7fe",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud NAT.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Armor",
@@ -178,8 +178,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud DNS.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Scheduler",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Scheduler.png"
   }, {
     "tag" : "Google Cloud Platform - AI Platform",
@@ -268,8 +268,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Container-Optimized OS.png"
   }, {
     "tag" : "Google Cloud Platform - AI Hub",
-    "stroke" : "#f3f7fe",
-    "color" : "#f3f7fe",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/AI Hub.png"
   }, {
     "tag" : "Google Cloud Platform - Traffic Director",
@@ -288,8 +288,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Developer Portal.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Tasks",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Tasks.png"
   }, {
     "tag" : "Google Cloud Platform - Trace",
@@ -308,8 +308,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Billing API.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Filestore",
-    "stroke" : "#47704c",
-    "color" : "#47704c",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Filestore.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Deployment Manager",
@@ -353,8 +353,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Mobile App.png"
   }, {
     "tag" : "Google Cloud Platform - GKE On-Prem",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/GKE On-Prem.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud APIs",
@@ -433,8 +433,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Service Mesh.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Firestore",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Firestore.png"
   }, {
     "tag" : "Google Cloud Platform - AutoML Translation",
@@ -443,13 +443,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/AutoML Translation.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Test Lab",
-    "stroke" : "#4485f4",
-    "color" : "#4485f4",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Test Lab.png"
   }, {
     "tag" : "Google Cloud Platform - AutoML Video Intelligence",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/AutoML Video Intelligence.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Resource Manager",
@@ -468,8 +468,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Apigee Sense.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Data Catalog",
-    "stroke" : "#fdfeff",
-    "color" : "#fdfeff",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Data Catalog.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud IAM",
@@ -503,8 +503,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Video Intelligence API.png"
   }, {
     "tag" : "Google Cloud Platform - Profiler",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Profiler.png"
   }, {
     "tag" : "Google Cloud Platform - Logging",
@@ -523,13 +523,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Memorystore.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Run",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Cloud Run.png"
   }, {
     "tag" : "Google Cloud Platform - Recommendations AI",
-    "stroke" : "#000000",
-    "color" : "#000000",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/Recommendations AI.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud Tools for Visual Studio",
