@@ -672,6 +672,11 @@
     "color" : "#d86613",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Managed-Blockchain_light-bg@4x.png"
   }, {
+    "tag" : "Amazon Web Services - Region",
+    "stroke" : "#147eba",
+    "color" : "#147eba",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Region_light-bg@4x.png"
+  }, {
     "tag" : "Amazon Web Services - DynamoDB_Attributes",
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
@@ -897,6 +902,11 @@
     "color" : "#cd2264",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-CloudWatch_Event-Event-Based_light-bg@4x.png"
   }, {
+    "tag" : "Amazon Web Services - VPC subnet public",
+    "stroke" : "#248814",
+    "color" : "#248814",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/VPC-subnet-public_light-bg@4x.png"
+  }, {
     "tag" : "Amazon Web Services - RDS_SQL Server_instance",
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
@@ -921,6 +931,11 @@
     "stroke" : "#3f8624",
     "color" : "#3f8624",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-IoT-Greengrass_Connector_light-bg@4x.png"
+  }, {
+    "tag" : "Amazon Web Services - Corporate data center",
+    "stroke" : "#5a6c86",
+    "color" : "#5a6c86",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Corporate-data-center_light-bg@4x.png"
   }, {
     "tag" : "Amazon Web Services - SageMaker",
     "stroke" : "#1c7b68",
@@ -1001,6 +1016,11 @@
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-VPC_VPN-Connection_light-bg@4x.png"
+  }, {
+    "tag" : "Amazon Web Services - VPC subnet private",
+    "stroke" : "#147eba",
+    "color" : "#147eba",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/VPC-subnet-private_light-bg@4x.png"
   }, {
     "tag" : "Amazon Web Services - DataSync_Agent",
     "stroke" : "#1c7b68",
@@ -1537,6 +1557,11 @@
     "color" : "#d6242d",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-Security-Hub_light-bg@4x.png"
   }, {
+    "tag" : "Amazon Web Services - Server contents",
+    "stroke" : "#5a6c86",
+    "color" : "#5a6c86",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Server-contents_light-bg@4x.png"
+  }, {
     "tag" : "Amazon Web Services - RoboMaker_Cloud Extension ROS",
     "stroke" : "#d6242d",
     "color" : "#d6242d",
@@ -1611,6 +1636,11 @@
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-DynamoDB_light-bg@4x.png"
+  }, {
+    "tag" : "Amazon Web Services - Virtual private cloud VPC",
+    "stroke" : "#248814",
+    "color" : "#248814",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Virtual-private-cloud-VPC_light-bg@4x.png"
   }, {
     "tag" : "Amazon Web Services - Global Accelerator",
     "stroke" : "#693cc5",
@@ -1791,5 +1821,10 @@
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/AWS-CodeStar_light-bg@4x.png"
+  }, {
+    "tag" : "Amazon Web Services - Spot fleet",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Spot-fleet_light-bg@4x.png"
   } ]
 }
