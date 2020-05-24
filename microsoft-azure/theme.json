@@ -3,43 +3,43 @@
   "description" : "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/confirmation.aspx?id=41937).",
   "elements" : [ {
     "tag" : "Microsoft Azure - Spatial Anchor",
-    "stroke" : "#804998",
-    "color" : "#804998",
+    "stroke" : "#808080",
+    "color" : "#808080",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Spatial_Anchor.png"
   }, {
     "tag" : "Microsoft Azure - Function Apps",
-    "stroke" : "#fdbd0f",
-    "color" : "#fdbd0f",
+    "stroke" : "#3999c6",
+    "color" : "#3999c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Function_Apps.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Network (Classic)",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#0080ff",
+    "color" : "#0080ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_Network_(Classic).png"
   }, {
     "tag" : "Microsoft Azure - Image Definitions",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#874b96",
+    "color" : "#874b96",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Image_Definitions.png"
   }, {
     "tag" : "Microsoft Azure - DeveloperTools",
-    "stroke" : "#525252",
-    "color" : "#525252",
+    "stroke" : "#555555",
+    "color" : "#555555",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/DeveloperTools.png"
   }, {
     "tag" : "Microsoft Azure - API Management Services",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/API_Management_Services.png"
   }, {
     "tag" : "Microsoft Azure - Active Directory Connect Health",
-    "stroke" : "#68bbdd",
-    "color" : "#68bbdd",
+    "stroke" : "#55b8d5",
+    "color" : "#55b8d5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Active_Directory_Connect_Health.png"
   }, {
     "tag" : "Microsoft Azure - Azure Mobile Engagement",
-    "stroke" : "#5b5b5b",
-    "color" : "#5b5b5b",
+    "stroke" : "#404040",
+    "color" : "#404040",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Mobile_Engagement.png"
   }, {
     "tag" : "Microsoft Azure - Subscriptions",
@@ -48,8 +48,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Subscriptions.png"
   }, {
     "tag" : "Microsoft Azure - Azure Database for MariaDB servers",
-    "stroke" : "#d3e596",
-    "color" : "#d3e596",
+    "stroke" : "#1a3762",
+    "color" : "#1a3762",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Database_for_MariaDB_servers.png"
   }, {
     "tag" : "Microsoft Azure - Event Hub Clusters",
@@ -58,23 +58,23 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Event_Hub_Clusters.png"
   }, {
     "tag" : "Microsoft Azure - Tenant Status",
-    "stroke" : "#58b4d9",
-    "color" : "#58b4d9",
+    "stroke" : "#55aad5",
+    "color" : "#55aad5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Tenant_Status.png"
   }, {
     "tag" : "Microsoft Azure - SQL Databases",
-    "stroke" : "#e7f1c7",
-    "color" : "#e7f1c7",
+    "stroke" : "#0072c6",
+    "color" : "#0072c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/SQL_Databases.png"
   }, {
     "tag" : "Microsoft Azure - Azure Boards",
-    "stroke" : "#00957d",
-    "color" : "#00957d",
+    "stroke" : "#23d3b0",
+    "color" : "#23d3b0",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Boards.png"
   }, {
     "tag" : "Microsoft Azure - VM-windows",
-    "stroke" : "#b1b3b4",
-    "color" : "#b1b3b4",
+    "stroke" : "#7b7b7b",
+    "color" : "#7b7b7b",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM-windows.png"
   }, {
     "tag" : "Microsoft Azure - Machine Learning Studio Web Service Plans",
@@ -83,18 +83,18 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Machine_Learning_Studio_Web_Service_Plans.png"
   }, {
     "tag" : "Microsoft Azure - Shared Dashboard",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#000000",
+    "color" : "#000000",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Shared_Dashboard.png"
   }, {
     "tag" : "Microsoft Azure - Support",
-    "stroke" : "#3e3e3e",
-    "color" : "#3e3e3e",
+    "stroke" : "#5e5e5e",
+    "color" : "#5e5e5e",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Support.png"
   }, {
     "tag" : "Microsoft Azure - Managed Databases",
-    "stroke" : "#dbeb80",
-    "color" : "#dbeb80",
+    "stroke" : "#aaffff",
+    "color" : "#aaffff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Managed_Databases.png"
   }, {
     "tag" : "Microsoft Azure - Machine Learning Studio Web Services",
@@ -108,33 +108,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/eBooks.png"
   }, {
     "tag" : "Microsoft Azure - Conditional Access",
-    "stroke" : "#94c412",
-    "color" : "#94c412",
+    "stroke" : "#80b900",
+    "color" : "#80b900",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Conditional_Access.png"
   }, {
     "tag" : "Microsoft Azure - Device Config",
-    "stroke" : "#5b5b5b",
-    "color" : "#5b5b5b",
+    "stroke" : "#404040",
+    "color" : "#404040",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Device_Config.png"
   }, {
     "tag" : "Microsoft Azure - DDOS Protection Plans",
-    "stroke" : "#94c312",
-    "color" : "#94c312",
+    "stroke" : "#00ff00",
+    "color" : "#00ff00",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/DDOS_Protection_Plans.png"
   }, {
     "tag" : "Microsoft Azure - VM",
-    "stroke" : "#b1b3b4",
-    "color" : "#b1b3b4",
+    "stroke" : "#7b7b7b",
+    "color" : "#7b7b7b",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM.png"
   }, {
     "tag" : "Microsoft Azure - Cloud Services (Classic)",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Cloud_Services_(Classic).png"
   }, {
     "tag" : "Microsoft Azure - SignalR",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/SignalR.png"
   }, {
     "tag" : "Microsoft Azure - CloudSimple Services",
@@ -143,13 +143,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/CloudSimple_Services.png"
   }, {
     "tag" : "Microsoft Azure - Security Center",
-    "stroke" : "#94c412",
-    "color" : "#94c412",
+    "stroke" : "#80b900",
+    "color" : "#80b900",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Security_Center.png"
   }, {
     "tag" : "Microsoft Azure - Enrollment",
-    "stroke" : "#5b5b5b",
-    "color" : "#5b5b5b",
+    "stroke" : "#5a5a5a",
+    "color" : "#5a5a5a",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Enrollment.png"
   }, {
     "tag" : "Microsoft Azure - Azure Maps",
@@ -158,13 +158,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Maps.png"
   }, {
     "tag" : "Microsoft Azure - Identity governance",
-    "stroke" : "#2999c6",
-    "color" : "#2999c6",
+    "stroke" : "#3399cc",
+    "color" : "#3399cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Identity_governance.png"
   }, {
     "tag" : "Microsoft Azure - Azure AD Privileged Identity Management",
-    "stroke" : "#804998",
-    "color" : "#804998",
+    "stroke" : "#808080",
+    "color" : "#808080",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_AD_Privileged_Identity_Management.png"
   }, {
     "tag" : "Microsoft Azure - Support Requests",
@@ -178,13 +178,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Automation_Accounts.png"
   }, {
     "tag" : "Microsoft Azure - Templates",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5bb5d7",
+    "color" : "#5bb5d7",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Templates.png"
   }, {
     "tag" : "Microsoft Azure - VM (Classic)",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM_(Classic).png"
   }, {
     "tag" : "Microsoft Azure - Queues Storage",
@@ -193,43 +193,43 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Queues_Storage.png"
   }, {
     "tag" : "Microsoft Azure - Azure SQL DataWarehouse",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#389ac7",
+    "color" : "#389ac7",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_SQL_DataWarehouse.png"
   }, {
     "tag" : "Microsoft Azure - Azure Search",
-    "stroke" : "#5bb6db",
-    "color" : "#5bb6db",
+    "stroke" : "#5ab4d2",
+    "color" : "#5ab4d2",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Search.png"
   }, {
     "tag" : "Microsoft Azure - Azure IoT Hub",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0073c8",
+    "color" : "#0073c8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_IoT_Hub.png"
   }, {
     "tag" : "Microsoft Azure - Two User Icon",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Two_User_Icon.png"
   }, {
     "tag" : "Microsoft Azure - Azure Data Catalog",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0073c8",
+    "color" : "#0073c8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Data_Catalog.png"
   }, {
     "tag" : "Microsoft Azure - Policy",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#3399cc",
+    "color" : "#3399cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Policy.png"
   }, {
     "tag" : "Microsoft Azure - Service Catalog Managed Application Definitions",
-    "stroke" : "#0073c6",
-    "color" : "#0073c6",
+    "stroke" : "#0080bf",
+    "color" : "#0080bf",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Service_Catalog_Managed_Application_Definitions.png"
   }, {
     "tag" : "Microsoft Azure - User Privacy",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#80bc00",
+    "color" : "#80bc00",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/User_Privacy.png"
   }, {
     "tag" : "Microsoft Azure - HDInsightClusters",
@@ -238,18 +238,18 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/HDInsightClusters.png"
   }, {
     "tag" : "Microsoft Azure - Public IP Addresses",
-    "stroke" : "#b0b2b2",
-    "color" : "#b0b2b2",
+    "stroke" : "#9d9da7",
+    "color" : "#9d9da7",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Public_IP_Addresses.png"
   }, {
     "tag" : "Microsoft Azure - Blueprints",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0073c6",
+    "color" : "#0073c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Blueprints.png"
   }, {
     "tag" : "Microsoft Azure - Azure DevTest Labs",
-    "stroke" : "#1880cb",
-    "color" : "#1880cb",
+    "stroke" : "#0066cc",
+    "color" : "#0066cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_DevTest_Labs.png"
   }, {
     "tag" : "Microsoft Azure - Cloud Services",
@@ -258,28 +258,28 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Cloud_Services.png"
   }, {
     "tag" : "Microsoft Azure - Storage Sync Services",
-    "stroke" : "#76c1e0",
-    "color" : "#76c1e0",
+    "stroke" : "#6db6db",
+    "color" : "#6db6db",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Storage_Sync_Services.png"
   }, {
     "tag" : "Microsoft Azure - Network Interfaces",
-    "stroke" : "#7fba00",
-    "color" : "#7fba00",
+    "stroke" : "#fcd217",
+    "color" : "#fcd217",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Network_Interfaces.png"
   }, {
     "tag" : "Microsoft Azure - Azure AD Identity Protection",
-    "stroke" : "#ffb900",
-    "color" : "#ffb900",
+    "stroke" : "#000000",
+    "color" : "#000000",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_AD_Identity_Protection.png"
   }, {
     "tag" : "Microsoft Azure - Container Registries",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Container_Registries.png"
   }, {
     "tag" : "Microsoft Azure - General Storage",
-    "stroke" : "#5b5b5b",
-    "color" : "#5b5b5b",
+    "stroke" : "#3e3e3e",
+    "color" : "#3e3e3e",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/General_Storage.png"
   }, {
     "tag" : "Microsoft Azure - Integration Service Environments",
@@ -293,13 +293,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Data_Lake_Analytics.png"
   }, {
     "tag" : "Microsoft Azure - Managed Desktop",
-    "stroke" : "#3e3e3e",
-    "color" : "#3e3e3e",
+    "stroke" : "#3c3c3c",
+    "color" : "#3c3c3c",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Managed_Desktop.png"
   }, {
     "tag" : "Microsoft Azure - App Service Plans",
-    "stroke" : "#3e3e3e",
-    "color" : "#3e3e3e",
+    "stroke" : "#404040",
+    "color" : "#404040",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Service_Plans.png"
   }, {
     "tag" : "Microsoft Azure - DNS Zones",
@@ -318,13 +318,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Intune_App_Protection.png"
   }, {
     "tag" : "Microsoft Azure - App Service Certificates",
-    "stroke" : "#fbd017",
-    "color" : "#fbd017",
+    "stroke" : "#d95500",
+    "color" : "#d95500",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Service_Certificates.png"
   }, {
     "tag" : "Microsoft Azure - Integration Accounts",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#000000",
+    "color" : "#000000",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Integration_Accounts.png"
   }, {
     "tag" : "Microsoft Azure - Azure Repos",
@@ -348,8 +348,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Service_Domains.png"
   }, {
     "tag" : "Microsoft Azure - Availability Sets",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#acacb3",
+    "color" : "#acacb3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Availability_Sets.png"
   }, {
     "tag" : "Microsoft Azure - Recent",
@@ -358,8 +358,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Recent.png"
   }, {
     "tag" : "Microsoft Azure - Storage Explorer",
-    "stroke" : "#2f8cd0",
-    "color" : "#2f8cd0",
+    "stroke" : "#2c8dd3",
+    "color" : "#2c8dd3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Storage_Explorer.png"
   }, {
     "tag" : "Microsoft Azure - Azure Sentinel",
@@ -368,38 +368,38 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Sentinel.png"
   }, {
     "tag" : "Microsoft Azure - App Service Environments",
-    "stroke" : "#a0a1a2",
-    "color" : "#a0a1a2",
+    "stroke" : "#9fa2a2",
+    "color" : "#9fa2a2",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Service_Environments.png"
   }, {
     "tag" : "Microsoft Azure - Azure Sphere",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0071c6",
+    "color" : "#0071c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Sphere.png"
   }, {
     "tag" : "Microsoft Azure - Batch AI",
-    "stroke" : "#7a7a7a",
-    "color" : "#7a7a7a",
+    "stroke" : "#7b7b7b",
+    "color" : "#7b7b7b",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Batch_AI.png"
   }, {
     "tag" : "Microsoft Azure - VM Scale Sets",
-    "stroke" : "#b3b4b5",
-    "color" : "#b3b4b5",
+    "stroke" : "#b1b1b3",
+    "color" : "#b1b1b3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM_Scale_Sets.png"
   }, {
     "tag" : "Microsoft Azure - IoT Central Applications",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0073c6",
+    "color" : "#0073c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/IoT_Central_Applications.png"
   }, {
     "tag" : "Microsoft Azure - SendGrid Accounts",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#3a99c6",
+    "color" : "#3a99c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/SendGrid_Accounts.png"
   }, {
     "tag" : "Microsoft Azure - Azure Cosmos DB",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Cosmos_DB.png"
   }, {
     "tag" : "Microsoft Azure - Tag",
@@ -413,13 +413,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Dedicated_Event_Hub.png"
   }, {
     "tag" : "Microsoft Azure - Route Tables",
-    "stroke" : "#59b4da",
-    "color" : "#59b4da",
+    "stroke" : "#a0a0a0",
+    "color" : "#a0a0a0",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Route_Tables.png"
   }, {
     "tag" : "Microsoft Azure - Help + Support",
-    "stroke" : "#3e3e3e",
-    "color" : "#3e3e3e",
+    "stroke" : "#5e5e5e",
+    "color" : "#5e5e5e",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Help_+_Support.png"
   }, {
     "tag" : "Microsoft Azure - Elastic Database Pools",
@@ -428,13 +428,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Elastic_Database_Pools.png"
   }, {
     "tag" : "Microsoft Azure - Azure Database (Generic)",
-    "stroke" : "#f2f7e1",
-    "color" : "#f2f7e1",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Database_(Generic).png"
   }, {
     "tag" : "Microsoft Azure - Disk Snapshots",
-    "stroke" : "#7b7b7b",
-    "color" : "#7b7b7b",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Disk_Snapshots.png"
   }, {
     "tag" : "Microsoft Azure - Local Network Gateways",
@@ -443,33 +443,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Local_Network_Gateways.png"
   }, {
     "tag" : "Microsoft Azure - App Services",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Services.png"
   }, {
     "tag" : "Microsoft Azure - Virtual WANs",
-    "stroke" : "#78c2e0",
-    "color" : "#78c2e0",
+    "stroke" : "#6db6db",
+    "color" : "#6db6db",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_WANs.png"
   }, {
     "tag" : "Microsoft Azure - Resource Groups",
-    "stroke" : "#7a7a7a",
-    "color" : "#7a7a7a",
+    "stroke" : "#7b7b7b",
+    "color" : "#7b7b7b",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Resource_Groups.png"
   }, {
     "tag" : "Microsoft Azure - Application Insights",
-    "stroke" : "#9561a0",
-    "color" : "#9561a0",
+    "stroke" : "#69227c",
+    "color" : "#69227c",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Application_Insights.png"
   }, {
     "tag" : "Microsoft Azure - Event Hubs",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#b9d232",
+    "color" : "#b9d232",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Event_Hubs.png"
   }, {
     "tag" : "Microsoft Azure - Notification Hubs",
-    "stroke" : "#ffa333",
-    "color" : "#ffa333",
+    "stroke" : "#ffa12d",
+    "color" : "#ffa12d",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Notification_Hubs.png"
   }, {
     "tag" : "Microsoft Azure - Log Analytics Workspaces",
@@ -478,33 +478,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Log_Analytics_Workspaces.png"
   }, {
     "tag" : "Microsoft Azure - Connections",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#59b3d9",
+    "color" : "#59b3d9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Connections.png"
   }, {
     "tag" : "Microsoft Azure - Notification Hub Namespaces",
-    "stroke" : "#ffa333",
-    "color" : "#ffa333",
+    "stroke" : "#ffa12d",
+    "color" : "#ffa12d",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Notification_Hub_Namespaces.png"
   }, {
     "tag" : "Microsoft Azure - VM-Linux-non-azure",
-    "stroke" : "#976bab",
-    "color" : "#976bab",
+    "stroke" : "#993399",
+    "color" : "#993399",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM-Linux-non-azure.png"
   }, {
     "tag" : "Microsoft Azure - Content Protection",
-    "stroke" : "#3e3e3e",
-    "color" : "#3e3e3e",
+    "stroke" : "#404040",
+    "color" : "#404040",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Content_Protection.png"
   }, {
     "tag" : "Microsoft Azure - Azure Databricks",
-    "stroke" : "#f25f32",
-    "color" : "#f25f32",
+    "stroke" : "#f25e31",
+    "color" : "#f25e31",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Databricks.png"
   }, {
     "tag" : "Microsoft Azure - Data Box Edge   Data Box Gateway",
-    "stroke" : "#2272b9",
-    "color" : "#2272b9",
+    "stroke" : "#2172ba",
+    "color" : "#2172ba",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Data_Box_Edge___Data_Box_Gateway.png"
   }, {
     "tag" : "Microsoft Azure - Mesh Applications",
@@ -518,8 +518,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Advisor.png"
   }, {
     "tag" : "Microsoft Azure - VM-windows-non-azure",
-    "stroke" : "#976bab",
-    "color" : "#976bab",
+    "stroke" : "#993399",
+    "color" : "#993399",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM-windows-non-azure.png"
   }, {
     "tag" : "Microsoft Azure - Recovery Services Vaults",
@@ -528,8 +528,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Recovery_Services_Vaults.png"
   }, {
     "tag" : "Microsoft Azure - SQL Managed Instances",
-    "stroke" : "#777777",
-    "color" : "#777777",
+    "stroke" : "#757575",
+    "color" : "#757575",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/SQL_Managed_Instances.png"
   }, {
     "tag" : "Microsoft Azure - Quick Start Center",
@@ -538,13 +538,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Quick_Start_Center.png"
   }, {
     "tag" : "Microsoft Azure - Image Versions",
-    "stroke" : "#7fb900",
-    "color" : "#7fb900",
+    "stroke" : "#80b900",
+    "color" : "#80b900",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Image_Versions.png"
   }, {
     "tag" : "Microsoft Azure - Time Series Insights Events Sources",
-    "stroke" : "#a0a1a2",
-    "color" : "#a0a1a2",
+    "stroke" : "#a0a0a3",
+    "color" : "#a0a0a3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Time_Series_Insights_Events_Sources.png"
   }, {
     "tag" : "Microsoft Azure - Cost Management + Billing",
@@ -553,8 +553,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Cost_Management_+_Billing.png"
   }, {
     "tag" : "Microsoft Azure - Time Series Insights environments",
-    "stroke" : "#00b294",
-    "color" : "#00b294",
+    "stroke" : "#00b395",
+    "color" : "#00b395",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Time_Series_Insights_environments.png"
   }, {
     "tag" : "Microsoft Azure - SAP HANA on Azure",
@@ -563,33 +563,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/SAP_HANA_on_Azure.png"
   }, {
     "tag" : "Microsoft Azure - Azure AD B2C",
-    "stroke" : "#804998",
-    "color" : "#804998",
+    "stroke" : "#0000ff",
+    "color" : "#0000ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_AD_B2C.png"
   }, {
     "tag" : "Microsoft Azure - Azure Artifacts",
-    "stroke" : "#cb2d6e",
-    "color" : "#cb2d6e",
+    "stroke" : "#f073a5",
+    "color" : "#f073a5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Artifacts.png"
   }, {
     "tag" : "Microsoft Azure - Service Endpoint Policies",
-    "stroke" : "#222222",
-    "color" : "#222222",
+    "stroke" : "#000000",
+    "color" : "#000000",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Service_Endpoint_Policies.png"
   }, {
     "tag" : "Microsoft Azure - Azure Cache for Redis",
-    "stroke" : "#deeb9f",
-    "color" : "#deeb9f",
+    "stroke" : "#0000ff",
+    "color" : "#0000ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Cache_for_Redis.png"
   }, {
     "tag" : "Microsoft Azure - Tools",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Tools.png"
   }, {
     "tag" : "Microsoft Azure - Service Fabric Clusters",
-    "stroke" : "#ff8c00",
-    "color" : "#ff8c00",
+    "stroke" : "#e15a00",
+    "color" : "#e15a00",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Service_Fabric_Clusters.png"
   }, {
     "tag" : "Microsoft Azure - Information",
@@ -613,38 +613,38 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Customer_Lockbox.png"
   }, {
     "tag" : "Microsoft Azure - Alerts",
-    "stroke" : "#b8d432",
-    "color" : "#b8d432",
+    "stroke" : "#b9d532",
+    "color" : "#b9d532",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Alerts.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Network Gateways",
-    "stroke" : "#a0a1a2",
-    "color" : "#a0a1a2",
+    "stroke" : "#a1a1a1",
+    "color" : "#a1a1a1",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_Network_Gateways.png"
   }, {
     "tag" : "Microsoft Azure - Media On-Demand",
-    "stroke" : "#72bfdf",
-    "color" : "#72bfdf",
+    "stroke" : "#62b1d8",
+    "color" : "#62b1d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Media_On-Demand.png"
   }, {
     "tag" : "Microsoft Azure - On-premises Data Gateways",
-    "stroke" : "#5bb6db",
-    "color" : "#5bb6db",
+    "stroke" : "#5ab4d2",
+    "color" : "#5ab4d2",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/On-premises_Data_Gateways.png"
   }, {
     "tag" : "Microsoft Azure - Azure Pipelines",
-    "stroke" : "#5d8ee4",
-    "color" : "#5d8ee4",
+    "stroke" : "#265ac3",
+    "color" : "#265ac3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Pipelines.png"
   }, {
     "tag" : "Microsoft Azure - Exchange On-Premises Access",
-    "stroke" : "#318ed1",
-    "color" : "#318ed1",
+    "stroke" : "#0071c6",
+    "color" : "#0071c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Exchange_On-Premises_Access.png"
   }, {
     "tag" : "Microsoft Azure - Controllers",
-    "stroke" : "#7a7a7a",
-    "color" : "#7a7a7a",
+    "stroke" : "#a1a1a3",
+    "color" : "#a1a1a3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Controllers.png"
   }, {
     "tag" : "Microsoft Azure - Azure Data Explorer Clusters",
@@ -653,8 +653,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Data_Explorer_Clusters.png"
   }, {
     "tag" : "Microsoft Azure - Front Doors",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#59b3d9",
+    "color" : "#59b3d9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Front_Doors.png"
   }, {
     "tag" : "Microsoft Azure - Azure AD Domain Services",
@@ -663,8 +663,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_AD_Domain_Services.png"
   }, {
     "tag" : "Microsoft Azure - Reserved IP Addresses (Classic)",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Reserved_IP_Addresses_(Classic).png"
   }, {
     "tag" : "Microsoft Azure - Windows 10 IoT Core Services",
@@ -678,18 +678,18 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Media_Player.png"
   }, {
     "tag" : "Microsoft Azure - Service Health",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#76c3df",
+    "color" : "#76c3df",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Service_Health.png"
   }, {
     "tag" : "Microsoft Azure - Storage Accounts (classic)",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0055aa",
+    "color" : "#0055aa",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Storage_Accounts_(classic).png"
   }, {
     "tag" : "Microsoft Azure - Machine Learning Studio Workspaces",
-    "stroke" : "#a0a1a2",
-    "color" : "#a0a1a2",
+    "stroke" : "#a1a1a3",
+    "color" : "#a1a1a3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Machine_Learning_Studio_Workspaces.png"
   }, {
     "tag" : "Microsoft Azure - Monitor",
@@ -698,8 +698,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Monitor.png"
   }, {
     "tag" : "Microsoft Azure - Network Security Groups (Classic)",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0000ff",
+    "color" : "#0000ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Network_Security_Groups_(Classic).png"
   }, {
     "tag" : "Microsoft Azure - Managed Applications",
@@ -718,83 +718,83 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Migration_Projects.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Networks",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#3899c7",
+    "color" : "#3899c7",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_Networks.png"
   }, {
     "tag" : "Microsoft Azure - Azure Information Protection",
-    "stroke" : "#58b4da",
-    "color" : "#58b4da",
+    "stroke" : "#58b4d8",
+    "color" : "#58b4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Information_Protection.png"
   }, {
     "tag" : "Microsoft Azure - Azure Database for PostgreSQL servers",
-    "stroke" : "#dcebad",
-    "color" : "#dcebad",
+    "stroke" : "#3a98c5",
+    "color" : "#3a98c5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Database_for_PostgreSQL_servers.png"
   }, {
     "tag" : "Microsoft Azure - Shared Image Galleries",
-    "stroke" : "#3a99c5",
-    "color" : "#3a99c5",
+    "stroke" : "#2d8bd0",
+    "color" : "#2d8bd0",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Shared_Image_Galleries.png"
   }, {
     "tag" : "Microsoft Azure - CloudSimple Virtual Machines",
-    "stroke" : "#496487",
-    "color" : "#496487",
+    "stroke" : "#84bd42",
+    "color" : "#84bd42",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/CloudSimple_Virtual_Machines.png"
   }, {
     "tag" : "Microsoft Azure - Devices Groups",
-    "stroke" : "#5b5b5b",
-    "color" : "#5b5b5b",
+    "stroke" : "#3f3f3f",
+    "color" : "#3f3f3f",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Devices_Groups.png"
   }, {
     "tag" : "Microsoft Azure - Analysis Services",
-    "stroke" : "#59b4da",
-    "color" : "#59b4da",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Analysis_Services.png"
   }, {
     "tag" : "Microsoft Azure - Software as a Service (SaaS)",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Software_as_a_Service_(SaaS).png"
   }, {
     "tag" : "Microsoft Azure - Azure DevOps",
-    "stroke" : "#539beb",
-    "color" : "#539beb",
+    "stroke" : "#8080ff",
+    "color" : "#8080ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_DevOps.png"
   }, {
     "tag" : "Microsoft Azure - Traffic Manager Profiles",
-    "stroke" : "#996dad",
-    "color" : "#996dad",
+    "stroke" : "#808080",
+    "color" : "#808080",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Traffic_Manager_Profiles.png"
   }, {
     "tag" : "Microsoft Azure - Device Compliance",
-    "stroke" : "#5b5b5b",
-    "color" : "#5b5b5b",
+    "stroke" : "#404040",
+    "color" : "#404040",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Device_Compliance.png"
   }, {
     "tag" : "Microsoft Azure - Container Instances",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#59b3d9",
+    "color" : "#59b3d9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Container_Instances.png"
   }, {
     "tag" : "Microsoft Azure - Device Provisioning Services",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0071c6",
+    "color" : "#0071c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Device_Provisioning_Services.png"
   }, {
     "tag" : "Microsoft Azure - Genomics Accounts",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4d8",
+    "color" : "#5ab4d8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Genomics_Accounts.png"
   }, {
     "tag" : "Microsoft Azure - SQL Server stretch Databases",
-    "stroke" : "#f2f7e1",
-    "color" : "#f2f7e1",
+    "stroke" : "#0073c6",
+    "color" : "#0073c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/SQL_Server_stretch_Databases.png"
   }, {
     "tag" : "Microsoft Azure - Client Apps",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0071c6",
+    "color" : "#0071c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Client_Apps.png"
   }, {
     "tag" : "Microsoft Azure - Elastic Job Agents",
@@ -808,8 +808,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Event_Grid_Topics.png"
   }, {
     "tag" : "Microsoft Azure - DNS Private Zones",
-    "stroke" : "#e5e5e5",
-    "color" : "#e5e5e5",
+    "stroke" : "#e4e4e4",
+    "color" : "#e4e4e4",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/DNS_Private_Zones.png"
   }, {
     "tag" : "Microsoft Azure - Resource Graph Explorer",
@@ -818,13 +818,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Resource_Graph_Explorer.png"
   }, {
     "tag" : "Microsoft Azure - User Health Icon",
-    "stroke" : "#58b4d9",
-    "color" : "#58b4d9",
+    "stroke" : "#55aad5",
+    "color" : "#55aad5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/User_Health_Icon.png"
   }, {
     "tag" : "Microsoft Azure - Azure App Service - Mobile",
-    "stroke" : "#5b5b5b",
-    "color" : "#5b5b5b",
+    "stroke" : "#404040",
+    "color" : "#404040",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_App_Service_-_Mobile.png"
   }, {
     "tag" : "Microsoft Azure - Network Watcher",
@@ -833,33 +833,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Network_Watcher.png"
   }, {
     "tag" : "Microsoft Azure - User Icon",
-    "stroke" : "#59b4da",
-    "color" : "#59b4da",
+    "stroke" : "#55aad5",
+    "color" : "#55aad5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/User_Icon.png"
   }, {
     "tag" : "Microsoft Azure - StorSimple Data Managers",
-    "stroke" : "#b8d433",
-    "color" : "#b8d433",
+    "stroke" : "#3399cc",
+    "color" : "#3399cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/StorSimple_Data_Managers.png"
   }, {
     "tag" : "Microsoft Azure - Tags",
-    "stroke" : "#8dc019",
-    "color" : "#8dc019",
+    "stroke" : "#80b800",
+    "color" : "#80b800",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Tags.png"
   }, {
     "tag" : "Microsoft Azure - Azure API for FHIR",
-    "stroke" : "#ff8c00",
-    "color" : "#ff8c00",
+    "stroke" : "#ff8000",
+    "color" : "#ff8000",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_API_for_FHIR.png"
   }, {
     "tag" : "Microsoft Azure - Machine Learning Service Workspaces",
-    "stroke" : "#046eab",
-    "color" : "#046eab",
+    "stroke" : "#1590d0",
+    "color" : "#1590d0",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Machine_Learning_Service_Workspaces.png"
   }, {
     "tag" : "Microsoft Azure - User Resource",
-    "stroke" : "#b7d432",
-    "color" : "#b7d432",
+    "stroke" : "#b8d431",
+    "color" : "#b8d431",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/User_Resource.png"
   }, {
     "tag" : "Microsoft Azure - AzureFXTEdgeFiler",
@@ -868,33 +868,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/AzureFXTEdgeFiler.png"
   }, {
     "tag" : "Microsoft Azure - VM-non-azure",
-    "stroke" : "#976bab",
-    "color" : "#976bab",
+    "stroke" : "#993399",
+    "color" : "#993399",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM-non-azure.png"
   }, {
     "tag" : "Microsoft Azure - Azure NetApp files",
-    "stroke" : "#919191",
-    "color" : "#919191",
+    "stroke" : "#7b7b7b",
+    "color" : "#7b7b7b",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_NetApp_files.png"
   }, {
     "tag" : "Microsoft Azure - Enterprise Applications",
-    "stroke" : "#0072c5",
-    "color" : "#0072c5",
+    "stroke" : "#0073c8",
+    "color" : "#0073c8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Enterprise_Applications.png"
   }, {
     "tag" : "Microsoft Azure - Azure Digital Twins",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0073c7",
+    "color" : "#0073c7",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Digital_Twins.png"
   }, {
     "tag" : "Microsoft Azure - Azure Service Bus",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0071c3",
+    "color" : "#0071c3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Service_Bus.png"
   }, {
     "tag" : "Microsoft Azure - Bot Services",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#59b3d9",
+    "color" : "#59b3d9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Bot_Services.png"
   }, {
     "tag" : "Microsoft Azure - Web App Firewall",
@@ -903,13 +903,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Web_App_Firewall.png"
   }, {
     "tag" : "Microsoft Azure - Data Lake",
-    "stroke" : "#dcebad",
-    "color" : "#dcebad",
+    "stroke" : "#0080ff",
+    "color" : "#0080ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Data_Lake.png"
   }, {
     "tag" : "Microsoft Azure - Metrics",
-    "stroke" : "#804998",
-    "color" : "#804998",
+    "stroke" : "#67217a",
+    "color" : "#67217a",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Metrics.png"
   }, {
     "tag" : "Microsoft Azure - Load Balancers",
@@ -918,13 +918,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Load_Balancers.png"
   }, {
     "tag" : "Microsoft Azure - Azure IoT Hub Security",
-    "stroke" : "#96c414",
-    "color" : "#96c414",
+    "stroke" : "#96c314",
+    "color" : "#96c314",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_IoT_Hub_Security.png"
   }, {
     "tag" : "Microsoft Azure - Marketplace",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#808080",
+    "color" : "#808080",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Marketplace.png"
   }, {
     "tag" : "Microsoft Azure - Event Grid Subscriptions",
@@ -938,33 +938,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Managed_Identities.png"
   }, {
     "tag" : "Microsoft Azure - Azure Home",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#55aaaa",
+    "color" : "#55aaaa",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Home.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Clusters",
-    "stroke" : "#777777",
-    "color" : "#777777",
+    "stroke" : "#797979",
+    "color" : "#797979",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_Clusters.png"
   }, {
     "tag" : "Microsoft Azure - Kubernetes Services",
-    "stroke" : "#804998",
-    "color" : "#804998",
+    "stroke" : "#814a98",
+    "color" : "#814a98",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Kubernetes_Services.png"
   }, {
     "tag" : "Microsoft Azure - Guest Assignments",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#55b8d5",
+    "color" : "#55b8d5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Guest_Assignments.png"
   }, {
     "tag" : "Microsoft Azure - Storage Accounts",
-    "stroke" : "#b7b7b7",
-    "color" : "#b7b7b7",
+    "stroke" : "#3f3f3f",
+    "color" : "#3f3f3f",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Storage_Accounts.png"
   }, {
     "tag" : "Microsoft Azure - Stream Analytics Jobs",
-    "stroke" : "#929292",
-    "color" : "#929292",
+    "stroke" : "#808080",
+    "color" : "#808080",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Stream_Analytics_Jobs.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Datacenter",
@@ -973,33 +973,33 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_Datacenter.png"
   }, {
     "tag" : "Microsoft Azure - CloudSimple Nodes",
-    "stroke" : "#486386",
-    "color" : "#486386",
+    "stroke" : "#486384",
+    "color" : "#486384",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/CloudSimple_Nodes.png"
   }, {
     "tag" : "Microsoft Azure - Media Encoding",
-    "stroke" : "#3e3e3e",
-    "color" : "#3e3e3e",
+    "stroke" : "#3c3c3c",
+    "color" : "#3c3c3c",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Media_Encoding.png"
   }, {
     "tag" : "Microsoft Azure - Azure Cache plus Redis",
-    "stroke" : "#d3e796",
-    "color" : "#d3e796",
+    "stroke" : "#399ac6",
+    "color" : "#399ac6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Cache_plus_Redis.png"
   }, {
     "tag" : "Microsoft Azure - Management Groups",
-    "stroke" : "#7a7a7a",
-    "color" : "#7a7a7a",
+    "stroke" : "#808080",
+    "color" : "#808080",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Management_Groups.png"
   }, {
     "tag" : "Microsoft Azure - Disks",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#59b3d9",
+    "color" : "#59b3d9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Disks.png"
   }, {
     "tag" : "Microsoft Azure - Azure Firewall",
-    "stroke" : "#a0a2a2",
-    "color" : "#a0a2a2",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Firewall.png"
   }, {
     "tag" : "Microsoft Azure - Azure Media Services",
@@ -1013,8 +1013,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Resource_Explorer.png"
   }, {
     "tag" : "Microsoft Azure - Azure StorSimple Device Managers",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab5da",
+    "color" : "#5ab5da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_StorSimple_Device_Managers.png"
   }, {
     "tag" : "Microsoft Azure - Education",
@@ -1023,18 +1023,18 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Education.png"
   }, {
     "tag" : "Microsoft Azure - Access Review",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#000000",
+    "color" : "#000000",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Access_Review.png"
   }, {
     "tag" : "Microsoft Azure - Non-azure-machine",
-    "stroke" : "#804998",
-    "color" : "#804998",
+    "stroke" : "#0000ff",
+    "color" : "#0000ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Non-azure-machine.png"
   }, {
     "tag" : "Microsoft Azure - App Registrations",
-    "stroke" : "#0072c5",
-    "color" : "#0072c5",
+    "stroke" : "#0073c8",
+    "color" : "#0073c8",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Registrations.png"
   }, {
     "tag" : "Microsoft Azure - App Configuration",
@@ -1043,63 +1043,63 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Configuration.png"
   }, {
     "tag" : "Microsoft Azure - Key Vaults",
-    "stroke" : "#fcd116",
-    "color" : "#fcd116",
+    "stroke" : "#80b900",
+    "color" : "#80b900",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Key_Vaults.png"
   }, {
     "tag" : "Microsoft Azure - Reservations",
-    "stroke" : "#804998",
-    "color" : "#804998",
+    "stroke" : "#814899",
+    "color" : "#814899",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Reservations.png"
   }, {
     "tag" : "Microsoft Azure - Scheduler Job Collections",
-    "stroke" : "#7a7a7a",
-    "color" : "#7a7a7a",
+    "stroke" : "#808080",
+    "color" : "#808080",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Scheduler_Job_Collections.png"
   }, {
     "tag" : "Microsoft Azure - StorSimple Device Managers",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/StorSimple_Device_Managers.png"
   }, {
     "tag" : "Microsoft Azure - Archive Storage",
-    "stroke" : "#76a6b9",
-    "color" : "#76a6b9",
+    "stroke" : "#3e3e3e",
+    "color" : "#3e3e3e",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Archive_Storage.png"
   }, {
     "tag" : "Microsoft Azure - VM Images",
-    "stroke" : "#b1b3b4",
-    "color" : "#b1b3b4",
+    "stroke" : "#797979",
+    "color" : "#797979",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM_Images.png"
   }, {
     "tag" : "Microsoft Azure - Security Baselines",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#7eba00",
+    "color" : "#7eba00",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Security_Baselines.png"
   }, {
     "tag" : "Microsoft Azure - Azure Database for MySQL servers",
-    "stroke" : "#d3e596",
-    "color" : "#d3e596",
+    "stroke" : "#005e88",
+    "color" : "#005e88",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Database_for_MySQL_servers.png"
   }, {
     "tag" : "Microsoft Azure - Table Storage",
-    "stroke" : "#595959",
-    "color" : "#595959",
+    "stroke" : "#3e3e3e",
+    "color" : "#3e3e3e",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Table_Storage.png"
   }, {
     "tag" : "Microsoft Azure - Data Factories",
-    "stroke" : "#5ab3d9",
-    "color" : "#5ab3d9",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Data_Factories.png"
   }, {
     "tag" : "Microsoft Azure - Resource",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#3399cc",
+    "color" : "#3399cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Resource.png"
   }, {
     "tag" : "Microsoft Azure - Solutions",
-    "stroke" : "#dd5900",
-    "color" : "#dd5900",
+    "stroke" : "#3999c6",
+    "color" : "#3999c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Solutions.png"
   }, {
     "tag" : "Microsoft Azure - Logic Apps",
@@ -1108,48 +1108,48 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Logic_Apps.png"
   }, {
     "tag" : "Microsoft Azure - Citrix Virtual Desktops Essentials",
-    "stroke" : "#4293f3",
-    "color" : "#4293f3",
+    "stroke" : "#5580ff",
+    "color" : "#5580ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Citrix_Virtual_Desktops_Essentials.png"
   }, {
     "tag" : "Microsoft Azure - Batch Accounts",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#5ab4d2",
+    "color" : "#5ab4d2",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Batch_Accounts.png"
   }, {
     "tag" : "Microsoft Azure - Logic Apps Custom Connector",
-    "stroke" : "#7cb910",
-    "color" : "#7cb910",
+    "stroke" : "#55aa00",
+    "color" : "#55aa00",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Logic_Apps_Custom_Connector.png"
   }, {
     "tag" : "Microsoft Azure - Blob Storage",
-    "stroke" : "#585858",
-    "color" : "#585858",
+    "stroke" : "#3e3e3e",
+    "color" : "#3e3e3e",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Blob_Storage.png"
   }, {
     "tag" : "Microsoft Azure - Data Box",
-    "stroke" : "#2272b9",
-    "color" : "#2272b9",
+    "stroke" : "#8080ff",
+    "color" : "#8080ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Data_Box.png"
   }, {
     "tag" : "Microsoft Azure - Activity Log",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0071c7",
+    "color" : "#0071c7",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Activity_Log.png"
   }, {
     "tag" : "Microsoft Azure - API Connections",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#80b900",
+    "color" : "#80b900",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/API_Connections.png"
   }, {
     "tag" : "Microsoft Azure - Cognitive Services",
-    "stroke" : "#3176bc",
-    "color" : "#3176bc",
+    "stroke" : "#3366cc",
+    "color" : "#3366cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Cognitive_Services.png"
   }, {
     "tag" : "Microsoft Azure - OS Images (Classic)",
-    "stroke" : "#59b4d9",
-    "color" : "#59b4d9",
+    "stroke" : "#5ab4da",
+    "color" : "#5ab4da",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/OS_Images_(Classic).png"
   }, {
     "tag" : "Microsoft Azure - Azure Database Migration Services",
@@ -1158,13 +1158,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Database_Migration_Services.png"
   }, {
     "tag" : "Microsoft Azure - VM-Linux",
-    "stroke" : "#b1b3b4",
-    "color" : "#b1b3b4",
+    "stroke" : "#7b7b7b",
+    "color" : "#7b7b7b",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/VM-Linux.png"
   }, {
     "tag" : "Microsoft Azure - SQL Servers",
-    "stroke" : "#e7f1c7",
-    "color" : "#e7f1c7",
+    "stroke" : "#0071c6",
+    "color" : "#0071c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/SQL_Servers.png"
   }, {
     "tag" : "Microsoft Azure - ExpressRoute Circuits",
@@ -1173,13 +1173,13 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/ExpressRoute_Circuits.png"
   }, {
     "tag" : "Microsoft Azure - Route Filters",
-    "stroke" : "#97c730",
-    "color" : "#97c730",
+    "stroke" : "#8055aa",
+    "color" : "#8055aa",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Route_Filters.png"
   }, {
     "tag" : "Microsoft Azure - Data Lake Store Gen1",
-    "stroke" : "#3999c6",
-    "color" : "#3999c6",
+    "stroke" : "#3a98c5",
+    "color" : "#3a98c5",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Data_Lake_Store_Gen1.png"
   }, {
     "tag" : "Microsoft Azure - All Resources",
@@ -1188,8 +1188,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/All_Resources.png"
   }, {
     "tag" : "Microsoft Azure - Diagnostic Settings",
-    "stroke" : "#7fba00",
-    "color" : "#7fba00",
+    "stroke" : "#80bc00",
+    "color" : "#80bc00",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Diagnostic_Settings.png"
   }, {
     "tag" : "Microsoft Azure - Event Grid Domains",
@@ -1198,18 +1198,18 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Event_Grid_Domains.png"
   }, {
     "tag" : "Microsoft Azure - Application Security Groups",
-    "stroke" : "#0072c6",
-    "color" : "#0072c6",
+    "stroke" : "#0000ff",
+    "color" : "#0000ff",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Application_Security_Groups.png"
   }, {
     "tag" : "Microsoft Azure - Free Services",
-    "stroke" : "#b3b4b5",
-    "color" : "#b3b4b5",
+    "stroke" : "#787878",
+    "color" : "#787878",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Free_Services.png"
   }, {
     "tag" : "Microsoft Azure - Azure Test Plans",
-    "stroke" : "#9d6cd6",
-    "color" : "#9d6cd6",
+    "stroke" : "#bc8fe9",
+    "color" : "#bc8fe9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Test_Plans.png"
   } ]
 }
