@@ -11,8 +11,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Function_Apps.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Network (Classic)",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#3999c6",
+    "color" : "#3999c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_Network_(Classic).png"
   }, {
     "tag" : "Microsoft Azure - Image Definitions",
@@ -151,8 +151,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Enrollment.png"
   }, {
     "tag" : "Microsoft Azure - Azure Maps",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#3399cc",
+    "color" : "#3399cc",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Maps.png"
   }, {
     "tag" : "Microsoft Azure - Identity governance",
@@ -256,8 +256,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Cloud_Services.png"
   }, {
     "tag" : "Microsoft Azure - Storage Sync Services",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#76c1e0",
+    "color" : "#76c1e0",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Storage_Sync_Services.png"
   }, {
     "tag" : "Microsoft Azure - Network Interfaces",
@@ -511,8 +511,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Mesh_Applications.png"
   }, {
     "tag" : "Microsoft Azure - Advisor",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#77c1e0",
+    "color" : "#77c1e0",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Advisor.png"
   }, {
     "tag" : "Microsoft Azure - VM-windows-non-azure",
@@ -591,8 +591,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Service_Fabric_Clusters.png"
   }, {
     "tag" : "Microsoft Azure - Information",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#3999c6",
+    "color" : "#3999c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Information.png"
   }, {
     "tag" : "Microsoft Azure - Active Directory",
@@ -716,8 +716,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Migration_Projects.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Networks",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#3999c6",
+    "color" : "#3999c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Virtual_Networks.png"
   }, {
     "tag" : "Microsoft Azure - Azure Information Protection",
@@ -771,8 +771,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Device_Compliance.png"
   }, {
     "tag" : "Microsoft Azure - Container Instances",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#59b4d9",
+    "color" : "#59b4d9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Container_Instances.png"
   }, {
     "tag" : "Microsoft Azure - Device Provisioning Services",
@@ -936,8 +936,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Managed_Identities.png"
   }, {
     "tag" : "Microsoft Azure - Azure Home",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#3999c6",
+    "color" : "#3999c6",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Azure_Home.png"
   }, {
     "tag" : "Microsoft Azure - Virtual Clusters",
@@ -1036,8 +1036,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Registrations.png"
   }, {
     "tag" : "Microsoft Azure - App Configuration",
-    "stroke" : "#00ffff",
-    "color" : "#00ffff",
+    "stroke" : "#73bfd9",
+    "color" : "#73bfd9",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/App_Configuration.png"
   }, {
     "tag" : "Microsoft Azure - Key Vaults",
@@ -1106,8 +1106,8 @@
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Logic_Apps.png"
   }, {
     "tag" : "Microsoft Azure - Citrix Virtual Desktops Essentials",
-    "stroke" : "#4192f3",
-    "color" : "#4192f3",
+    "stroke" : "#4293f3",
+    "color" : "#4293f3",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Citrix_Virtual_Desktops_Essentials.png"
   }, {
     "tag" : "Microsoft Azure - Batch Accounts",
