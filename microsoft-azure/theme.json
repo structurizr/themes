@@ -1,4 +1,6 @@
 {
+  "name" : "Microsoft Azure",
+  "description" : "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/confirmation.aspx?id=41937).",
   "elements" : [ {
     "tag" : "Microsoft Azure - Spatial Anchor",
     "stroke" : "#804998",
