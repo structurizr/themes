@@ -14,7 +14,7 @@ This theme includes element styles with icons for each of the AWS services, base
 This theme includes element styles with icons for each of the Azure services, based upon the [Microsoft Azure Cloud and AI Symbol / Icon Set - SVG] (https://www.microsoft.com/en-us/download/details.aspx?id=41937).
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/theme.json)
-- [JSON](https://raw.githubusercontent.com/structurizr/themes/mastermicrosoft-azure/theme.json)
+- [JSON](https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/theme.json)
 
 ## Google Cloud Platform
 
