@@ -4,7 +4,7 @@ This repository includes a number of prebuilt themes for use with the Structuriz
 
 ## Amazon Web Services
 
-This theme includes element styles with icons for each of the AWS services, based upon the [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/). 
+This theme includes element styles with icons for each of the AWS services, based upon the [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/).
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/theme.json)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/theme.json)
@@ -18,14 +18,14 @@ This theme includes element styles with icons for each of the Azure services, ba
 
 ## Google Cloud Platform
 
-This theme includes element styles with icons for each of the GCP services, based upon the [official set of icons to build architectural diagrams of Google Cloud Platform](https://cloud.google.com/icons). 
+This theme includes element styles with icons for each of the GCP services, based upon the [official set of icons to build architectural diagrams of Google Cloud Platform](https://cloud.google.com/icons).
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/theme.json)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/google-cloud-platform/theme.json)
 
 ## Kubernetes
 
-This theme includes element styles with icons for each of the Kubernetes components/resources, based upon the [Kubernetes Icons Set](https://github.com/kubernetes/community/tree/master/icons). 
+This theme includes element styles with icons for each of the Kubernetes components/resources, based upon the [Kubernetes Icons Set](https://github.com/kubernetes/community/tree/master/icons).
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/kubernetes/theme.json)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/kubernetes/theme.json)
@@ -36,3 +36,10 @@ This theme includes element styles with icons for each of the OCI services, base
 
 - [Theme browser](https://structurizr.com/help/theme?url=https://raw.githubusercontent.com/structurizr/themes/master/oracle-cloud-infrastructure/theme.json)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/oracle-cloud-infrastructure/theme.json)
+
+## Apache Software Foundation
+
+This theme includes element styles with icons for each of the Apache Software Foundation projects, as listed in the [Apache Projects List](https://www.apache.org/index.html#projects-list).
+
+- [Theme browser - TODO](https://structurizr.com/help/themes)
+- [JSON](https://raw.githubusercontent.com/structurizr/themes/master/apache-software-foundation/theme.json)
