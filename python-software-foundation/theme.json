@@ -1,0 +1,10 @@
+{
+  "name" : "Python Software Foundation",
+  "description" : "Iconsets for Python Software Foundation project(s).",
+  "elements" : [ {
+    "tag" : "Python",
+    "stroke" : "#4287f5",
+    "color" : "#4287f5",
+    "icon" : "https://raw.githubusercontent.com/dmc1899/themes/master/python-software-foundation/Python_light_bg.png"
+  } ]
+}

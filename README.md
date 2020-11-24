@@ -43,3 +43,10 @@ This theme includes element styles with icons for each of the Apache Software Fo
 
 - [Theme browser - TODO](https://structurizr.com/help/themes)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/apache-software-foundation/theme.json)
+
+## Python Software Foundation
+
+This theme includes element styles with icons for each of the Python Software Foundation projects.
+
+- [Theme browser - TODO](https://structurizr.com/help/themes)
+- [JSON](https://raw.githubusercontent.com/structurizr/themes/master/python-software-foundation/theme.json)
