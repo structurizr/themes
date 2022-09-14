@@ -1,0 +1,200 @@
+{
+  "name" : "Kubernetes",
+  "description" : "This theme includes element styles with icons for each of the Kubernetes components/resources, based upon the Kubernetes Icons Set (https://github.com/kubernetes/community/tree/master/icons).",
+  "elements" : [ {
+    "tag" : "Kubernetes - crb",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "crb-256.png"
+  }, {
+    "tag" : "Kubernetes - pod",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "pod-256.png"
+  }, {
+    "tag" : "Kubernetes - vol",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "vol-256.png"
+  }, {
+    "tag" : "Kubernetes - c-role",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "c-role-256.png"
+  }, {
+    "tag" : "Kubernetes - ing",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "ing-256.png"
+  }, {
+    "tag" : "Kubernetes - svc",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "svc-256.png"
+  }, {
+    "tag" : "Kubernetes - secret",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "secret-256.png"
+  }, {
+    "tag" : "Kubernetes - ds",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "ds-256.png"
+  }, {
+    "tag" : "Kubernetes - netpol",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "netpol-256.png"
+  }, {
+    "tag" : "Kubernetes - sa",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "sa-256.png"
+  }, {
+    "tag" : "Kubernetes - etcd",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "etcd-256.png"
+  }, {
+    "tag" : "Kubernetes - kubelet",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "kubelet-256.png"
+  }, {
+    "tag" : "Kubernetes - ns",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "ns-256.png"
+  }, {
+    "tag" : "Kubernetes - cm",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "cm-256.png"
+  }, {
+    "tag" : "Kubernetes - job",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "job-256.png"
+  }, {
+    "tag" : "Kubernetes - sc",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "sc-256.png"
+  }, {
+    "tag" : "Kubernetes - sts",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "sts-256.png"
+  }, {
+    "tag" : "Kubernetes - api",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "api-256.png"
+  }, {
+    "tag" : "Kubernetes - k-proxy",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "k-proxy-256.png"
+  }, {
+    "tag" : "Kubernetes - limits",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "limits-256.png"
+  }, {
+    "tag" : "Kubernetes - node",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "node-256.png"
+  }, {
+    "tag" : "Kubernetes - rb",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "rb-256.png"
+  }, {
+    "tag" : "Kubernetes - deploy",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "deploy-256.png"
+  }, {
+    "tag" : "Kubernetes - ep",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "ep-256.png"
+  }, {
+    "tag" : "Kubernetes - quota",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "quota-256.png"
+  }, {
+    "tag" : "Kubernetes - role",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "role-256.png"
+  }, {
+    "tag" : "Kubernetes - user",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "user-256.png"
+  }, {
+    "tag" : "Kubernetes - c-m",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "c-m-256.png"
+  }, {
+    "tag" : "Kubernetes - cronjob",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "cronjob-256.png"
+  }, {
+    "tag" : "Kubernetes - crd",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "crd-256.png"
+  }, {
+    "tag" : "Kubernetes - psp",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "psp-256.png"
+  }, {
+    "tag" : "Kubernetes - rs",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "rs-256.png"
+  }, {
+    "tag" : "Kubernetes - pvc",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "pvc-256.png"
+  }, {
+    "tag" : "Kubernetes - group",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "group-256.png"
+  }, {
+    "tag" : "Kubernetes - hpa",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "hpa-256.png"
+  }, {
+    "tag" : "Kubernetes - master",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "master-256.png"
+  }, {
+    "tag" : "Kubernetes - pv",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "pv-256.png"
+  }, {
+    "tag" : "Kubernetes - c-c-m",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "c-c-m-256.png"
+  }, {
+    "tag" : "Kubernetes - sched",
+    "stroke" : "#3d6fdd",
+    "color" : "#3d6fdd",
+    "icon" : "sched-256.png"
+  } ]
+}
