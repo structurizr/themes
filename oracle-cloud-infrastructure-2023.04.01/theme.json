@@ -42,7 +42,7 @@
     "color" : "#005968",
     "icon" : "Alarms.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Application Dependency Management ",
+    "tag" : "Oracle Cloud Infrastructure - Application Dependency Management",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Application Dependency Management (ADM).png"
@@ -62,7 +62,7 @@
     "color" : "#2c5967",
     "icon" : "Private Cloud.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Domain Name System ",
+    "tag" : "Oracle Cloud Infrastructure - Domain Name System",
     "stroke" : "#005968",
     "color" : "#005968",
     "icon" : "Domain Name System DNS.png"
@@ -112,7 +112,7 @@
     "color" : "#005968",
     "icon" : "Encryption.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Service Oriented Architecture ",
+    "tag" : "Oracle Cloud Infrastructure - Service Oriented Architecture",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Service Oriented Architecture SOA.png"
@@ -177,7 +177,7 @@
     "color" : "#005968",
     "icon" : "Policies.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Cloud Identifier ",
+    "tag" : "Oracle Cloud Infrastructure - Cloud Identifier",
     "stroke" : "#005968",
     "color" : "#005968",
     "icon" : "Cloud Identifier OCID.png"
@@ -202,7 +202,7 @@
     "color" : "#2c5967",
     "icon" : "User Group Male.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Virtual Machine ",
+    "tag" : "Oracle Cloud Infrastructure - Virtual Machine",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Virtual Machine VM.png"
@@ -277,7 +277,7 @@
     "color" : "#2c5967",
     "icon" : "User Female.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Dynamic Routing Gateway ",
+    "tag" : "Oracle Cloud Infrastructure - Dynamic Routing Gateway",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Dynamic Routing Gateway DRG.png"
@@ -297,7 +297,7 @@
     "color" : "#005968",
     "icon" : "Firewall.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Enterprise Performance Management ",
+    "tag" : "Oracle Cloud Infrastructure - Enterprise Performance Management",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Enterprise Performance Management EPM.png"
@@ -362,7 +362,7 @@
     "color" : "#2d5967",
     "icon" : "Transaction Manager.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Web Application Firewall ",
+    "tag" : "Oracle Cloud Infrastructure - Web Application Firewall",
     "stroke" : "#005968",
     "color" : "#005968",
     "icon" : "Web Application Firewall WAF.png"
@@ -477,7 +477,7 @@
     "color" : "#005968",
     "icon" : "Monitoring.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Database for Amazon Web Service ",
+    "tag" : "Oracle Cloud Infrastructure - Database for Amazon Web Service",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Database for Amazon Web Service AWS.png"
@@ -562,12 +562,12 @@
     "color" : "#2c5a67",
     "icon" : "License Manager.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Customer Premises Equipment ",
+    "tag" : "Oracle Cloud Infrastructure - Customer Premises Equipment",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Customer Premises Equipment CPE.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Data Catalog ",
+    "tag" : "Oracle Cloud Infrastructure - Data Catalog",
     "stroke" : "#005968",
     "color" : "#005968",
     "icon" : "Data Catalog DCAT.png"
@@ -612,7 +612,7 @@
     "color" : "#2c5967",
     "icon" : "Data Integrator.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Load Balancer ",
+    "tag" : "Oracle Cloud Infrastructure - Load Balancer",
     "stroke" : "#005968",
     "color" : "#005968",
     "icon" : "Load Balancer LB.png"
@@ -707,7 +707,7 @@
     "color" : "#2c5967",
     "icon" : "Inventory Management.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Distributed Denial of Service Protection ",
+    "tag" : "Oracle Cloud Infrastructure - Distributed Denial of Service Protection",
     "stroke" : "#005968",
     "color" : "#005968",
     "icon" : "Distributed Denial of Service Protection DDoS.png"
@@ -782,7 +782,7 @@
     "color" : "#2c5967",
     "icon" : "User Male.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Database for Google Cloud Platform ",
+    "tag" : "Oracle Cloud Infrastructure - Database for Google Cloud Platform",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Database for Google Cloud Platform GCP.png"
@@ -822,7 +822,7 @@
     "color" : "#2c5967",
     "icon" : "Integrations.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Network Security Group ",
+    "tag" : "Oracle Cloud Infrastructure - Network Security Group",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Network Security Group NSG.png"
@@ -872,12 +872,12 @@
     "color" : "#005968",
     "icon" : "API Gateway.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Enterprise resource Planning Cloud Service ",
+    "tag" : "Oracle Cloud Infrastructure - Enterprise resource Planning Cloud Service",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Enterprise resource Planning Cloud Service ERP.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Burstable Virtual Machine ",
+    "tag" : "Oracle Cloud Infrastructure - Burstable Virtual Machine",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Burstable Virtual Machine VM.png"
@@ -902,22 +902,22 @@
     "color" : "#2c5967",
     "icon" : "Blockchain.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Human Capital Management ",
+    "tag" : "Oracle Cloud Infrastructure - Human Capital Management",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Human Capital Management HCM.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Content Delivery Network ",
+    "tag" : "Oracle Cloud Infrastructure - Content Delivery Network",
     "stroke" : "#005968",
     "color" : "#005968",
     "icon" : "Content Delivery Network CDN.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Virtual Cloud Network ",
+    "tag" : "Oracle Cloud Infrastructure - Virtual Cloud Network",
     "stroke" : "#bb5127",
     "color" : "#bb5127",
     "icon" : "Virtual Cloud Network VCN_red.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Autonomous Transaction Processing ",
+    "tag" : "Oracle Cloud Infrastructure - Autonomous Transaction Processing",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Autonomous Transaction Processing ATP.png"
@@ -992,7 +992,7 @@
     "color" : "#2c5967",
     "icon" : "GoldenGate Application Adapter.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Flex Virtual Machine ",
+    "tag" : "Oracle Cloud Infrastructure - Flex Virtual Machine",
     "stroke" : "#2c5967",
     "color" : "#2c5967",
     "icon" : "Flex Virtual Machine VM.png"
