@@ -26,7 +26,7 @@
     "tag" : "Oracle Cloud Infrastructure - Alarms",
     "icon" : "Alarms.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Application Dependency Management ",
+    "tag" : "Oracle Cloud Infrastructure - Application Dependency Management",
     "icon" : "Application Dependency Management (ADM).png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - WellnessHealthcare",
@@ -38,7 +38,7 @@
     "tag" : "Oracle Cloud Infrastructure - Private Cloud",
     "icon" : "Private Cloud.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Domain Name System ",
+    "tag" : "Oracle Cloud Infrastructure - Domain Name System",
     "icon" : "Domain Name System DNS.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Database Management",
@@ -68,7 +68,7 @@
     "tag" : "Oracle Cloud Infrastructure - Encryption",
     "icon" : "Encryption.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Service Oriented Architecture ",
+    "tag" : "Oracle Cloud Infrastructure - Service Oriented Architecture",
     "icon" : "Service Oriented Architecture SOA.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Backup Restore",
@@ -107,7 +107,7 @@
     "tag" : "Oracle Cloud Infrastructure - Policies",
     "icon" : "Policies.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Cloud Identifier ",
+    "tag" : "Oracle Cloud Infrastructure - Cloud Identifier",
     "icon" : "Cloud Identifier OCID.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Virtual Machine GPU",
@@ -122,7 +122,7 @@
     "tag" : "Oracle Cloud Infrastructure - User Group Male",
     "icon" : "User Group Male.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Virtual Machine ",
+    "tag" : "Oracle Cloud Infrastructure - Virtual Machine",
     "icon" : "Virtual Machine VM.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Tagging",
@@ -167,7 +167,7 @@
     "tag" : "Oracle Cloud Infrastructure - User Female",
     "icon" : "User Female.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Dynamic Routing Gateway ",
+    "tag" : "Oracle Cloud Infrastructure - Dynamic Routing Gateway",
     "icon" : "Dynamic Routing Gateway DRG.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Streaming",
@@ -179,7 +179,7 @@
     "tag" : "Oracle Cloud Infrastructure - Firewall",
     "icon" : "Firewall.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Enterprise Performance Management ",
+    "tag" : "Oracle Cloud Infrastructure - Enterprise Performance Management",
     "icon" : "Enterprise Performance Management EPM.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Supply Chain Planning",
@@ -218,7 +218,7 @@
     "tag" : "Oracle Cloud Infrastructure - Transaction Manager",
     "icon" : "Transaction Manager.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Web Application Firewall ",
+    "tag" : "Oracle Cloud Infrastructure - Web Application Firewall",
     "icon" : "Web Application Firewall WAF.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Product Master Data Management",
@@ -287,7 +287,7 @@
     "tag" : "Oracle Cloud Infrastructure - Monitoring",
     "icon" : "Monitoring.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Database for Amazon Web Service ",
+    "tag" : "Oracle Cloud Infrastructure - Database for Amazon Web Service",
     "icon" : "Database for Amazon Web Service AWS.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Roving Edge Service",
@@ -338,10 +338,10 @@
     "tag" : "Oracle Cloud Infrastructure - License Manager",
     "icon" : "License Manager.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Customer Premises Equipment ",
+    "tag" : "Oracle Cloud Infrastructure - Customer Premises Equipment",
     "icon" : "Customer Premises Equipment CPE.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Data Catalog ",
+    "tag" : "Oracle Cloud Infrastructure - Data Catalog",
     "icon" : "Data Catalog DCAT.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Document Understanding",
@@ -368,7 +368,7 @@
     "tag" : "Oracle Cloud Infrastructure - Data Integrator",
     "icon" : "Data Integrator.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Load Balancer ",
+    "tag" : "Oracle Cloud Infrastructure - Load Balancer",
     "icon" : "Load Balancer LB.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Container Registry",
@@ -425,7 +425,7 @@
     "tag" : "Oracle Cloud Infrastructure - Inventory Management",
     "icon" : "Inventory Management.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Distributed Denial of Service Protection ",
+    "tag" : "Oracle Cloud Infrastructure - Distributed Denial of Service Protection",
     "icon" : "Distributed Denial of Service Protection DDoS.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - BYOIP",
@@ -470,7 +470,7 @@
     "tag" : "Oracle Cloud Infrastructure - User Male",
     "icon" : "User Male.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Database for Google Cloud Platform ",
+    "tag" : "Oracle Cloud Infrastructure - Database for Google Cloud Platform",
     "icon" : "Database for Google Cloud Platform GCP.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Visual Builder",
@@ -494,7 +494,7 @@
     "tag" : "Oracle Cloud Infrastructure - Integrations",
     "icon" : "Integrations.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Network Security Group ",
+    "tag" : "Oracle Cloud Infrastructure - Network Security Group",
     "icon" : "Network Security Group NSG.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Data Integration",
@@ -524,10 +524,10 @@
     "tag" : "Oracle Cloud Infrastructure - API Gateway",
     "icon" : "API Gateway.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Enterprise resource Planning Cloud Service ",
+    "tag" : "Oracle Cloud Infrastructure - Enterprise resource Planning Cloud Service",
     "icon" : "Enterprise resource Planning Cloud Service ERP.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Burstable Virtual Machine ",
+    "tag" : "Oracle Cloud Infrastructure - Burstable Virtual Machine",
     "icon" : "Burstable Virtual Machine VM.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Virtual Machine Application",
@@ -542,16 +542,16 @@
     "tag" : "Oracle Cloud Infrastructure - Blockchain",
     "icon" : "Blockchain.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Human Capital Management ",
+    "tag" : "Oracle Cloud Infrastructure - Human Capital Management",
     "icon" : "Human Capital Management HCM.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Content Delivery Network ",
+    "tag" : "Oracle Cloud Infrastructure - Content Delivery Network",
     "icon" : "Content Delivery Network CDN.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Virtual Cloud Network ",
+    "tag" : "Oracle Cloud Infrastructure - Virtual Cloud Network",
     "icon" : "Virtual Cloud Network VCN_red.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Autonomous Transaction Processing ",
+    "tag" : "Oracle Cloud Infrastructure - Autonomous Transaction Processing",
     "icon" : "Autonomous Transaction Processing ATP.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - File Storage Replication Process",
@@ -596,7 +596,7 @@
     "tag" : "Oracle Cloud Infrastructure - GoldenGate Application Adapter",
     "icon" : "GoldenGate Application Adapter.png"
   }, {
-    "tag" : "Oracle Cloud Infrastructure - Flex Virtual Machine ",
+    "tag" : "Oracle Cloud Infrastructure - Flex Virtual Machine",
     "icon" : "Flex Virtual Machine VM.png"
   }, {
     "tag" : "Oracle Cloud Infrastructure - Virtual Machine",
