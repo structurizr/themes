@@ -183,13 +183,13 @@
       "color": "#4285f4"
     },
     {
-      "tag": "Google Cloud Platform - Bigquery",
+      "tag": "Google Cloud Platform - BigQuery",
       "icon": "icons/bigquery/bigquery.png",
       "stroke": "#4285f4",
       "color": "#4285f4"
     },
     {
-      "tag": "Google Cloud Platform - Bigtable",
+      "tag": "Google Cloud Platform - BigTable",
       "icon": "icons/bigtable/bigtable.png",
       "stroke": "#4285f4",
       "color": "#4285f4"
@@ -423,7 +423,7 @@
       "color": "#4285f4"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Nat",
+      "tag": "Google Cloud Platform - Cloud NAT",
       "icon": "icons/cloud_nat/cloud_nat.png",
       "stroke": "#4285f4",
       "color": "#4285f4"
@@ -795,7 +795,7 @@
       "color": "#4285f4"
     },
     {
-      "tag": "Google Cloud Platform - Gce Systems Management",
+      "tag": "Google Cloud Platform - GCE Systems Management",
       "icon": "icons/gce_systems_management/gce_systems_management.png",
       "stroke": "#4285f4",
       "color": "#4285f4"
@@ -807,7 +807,7 @@
       "color": "#4285f4"
     },
     {
-      "tag": "Google Cloud Platform - Gke On-Prem",
+      "tag": "Google Cloud Platform - GKE On-Prem",
       "icon": "icons/gke_on-prem/gke_on-prem.png",
       "stroke": "#4285f4",
       "color": "#4285f4"
@@ -1245,7 +1245,7 @@
       "color": "#4285f4"
     },
     {
-      "tag": "Google Cloud Platform - Vertexai",
+      "tag": "Google Cloud Platform - VertexAI",
       "icon": "icons/vertexai/vertexai.png",
       "stroke": "#4285f4",
       "color": "#4285f4"

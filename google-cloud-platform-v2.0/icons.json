@@ -87,27 +87,27 @@
       "icon": "icons/assured_workloads/assured_workloads.png"
     },
     {
-      "tag": "Google Cloud Platform - Automl",
+      "tag": "Google Cloud Platform - AutoML",
       "icon": "icons/automl/automl.png"
     },
     {
-      "tag": "Google Cloud Platform - Automl Natural Language",
+      "tag": "Google Cloud Platform - AutoML Natural Language",
       "icon": "icons/automl_natural_language/automl_natural_language.png"
     },
     {
-      "tag": "Google Cloud Platform - Automl Tables",
+      "tag": "Google Cloud Platform - AutoML Tables",
       "icon": "icons/automl_tables/automl_tables.png"
     },
     {
-      "tag": "Google Cloud Platform - Automl Translation",
+      "tag": "Google Cloud Platform - AutoML Translation",
       "icon": "icons/automl_translation/automl_translation.png"
     },
     {
-      "tag": "Google Cloud Platform - Automl Video Intelligence",
+      "tag": "Google Cloud Platform - AutoML Video Intelligence",
       "icon": "icons/automl_video_intelligence/automl_video_intelligence.png"
     },
     {
-      "tag": "Google Cloud Platform - Automl Vision",
+      "tag": "Google Cloud Platform - AutoML Vision",
       "icon": "icons/automl_vision/automl_vision.png"
     },
     {
@@ -123,11 +123,11 @@
       "icon": "icons/beyondcorp/beyondcorp.png"
     },
     {
-      "tag": "Google Cloud Platform - Bigquery",
+      "tag": "Google Cloud Platform - BigQuery",
       "icon": "icons/bigquery/bigquery.png"
     },
     {
-      "tag": "Google Cloud Platform - Bigtable",
+      "tag": "Google Cloud Platform - BigTable",
       "icon": "icons/bigtable/bigtable.png"
     },
     {
@@ -283,7 +283,7 @@
       "icon": "icons/cloud_monitoring/cloud_monitoring.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Nat",
+      "tag": "Google Cloud Platform - Cloud NAT",
       "icon": "icons/cloud_nat/cloud_nat.png"
     },
     {
@@ -531,7 +531,7 @@
       "icon": "icons/game_servers/game_servers.png"
     },
     {
-      "tag": "Google Cloud Platform - Gce Systems Management",
+      "tag": "Google Cloud Platform - GCE Systems Management",
       "icon": "icons/gce_systems_management/gce_systems_management.png"
     },
     {
@@ -539,7 +539,7 @@
       "icon": "icons/genomics/genomics.png"
     },
     {
-      "tag": "Google Cloud Platform - Gke On-Prem",
+      "tag": "Google Cloud Platform - GKE On-Prem",
       "icon": "icons/gke_on-prem/gke_on-prem.png"
     },
     {
@@ -831,7 +831,7 @@
       "icon": "icons/user_preferences/user_preferences.png"
     },
     {
-      "tag": "Google Cloud Platform - Vertexai",
+      "tag": "Google Cloud Platform - VertexAI",
       "icon": "icons/vertexai/vertexai.png"
     },
     {
