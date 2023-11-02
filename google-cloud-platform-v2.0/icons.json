@@ -23,15 +23,15 @@
       "icon": "/icons/agent_assist/agent_assist.png"
     },
     {
-      "tag": "Google Cloud Platform - Ai Hub",
+      "tag": "Google Cloud Platform - AI Hub",
       "icon": "/icons/ai_hub/ai_hub.png"
     },
     {
-      "tag": "Google Cloud Platform - Ai Platform",
+      "tag": "Google Cloud Platform - AI Platform",
       "icon": "/icons/ai_platform/ai_platform.png"
     },
     {
-      "tag": "Google Cloud Platform - Ai Platform Unified",
+      "tag": "Google Cloud Platform - AI Platform Unified",
       "icon": "/icons/ai_platform_unified/ai_platform_unified.png"
     },
     {
@@ -50,9 +50,12 @@
       "tag": "Google Cloud Platform - Anthos Service Mesh",
       "icon": "/icons/anthos_service_mesh/anthos_service_mesh.png"
     },
-    { "tag": "Google Cloud Platform - Api", "icon": "/icons/api/api.png" },
     {
-      "tag": "Google Cloud Platform - Apigee Api Platform",
+      "tag": "Google Cloud Platform - API",
+      "icon": "/icons/api/api.png"
+    },
+    {
+      "tag": "Google Cloud Platform - Apigee API Platform",
       "icon": "/icons/apigee_api_platform/apigee_api_platform.png"
     },
     {
@@ -60,11 +63,11 @@
       "icon": "/icons/apigee_sense/apigee_sense.png"
     },
     {
-      "tag": "Google Cloud Platform - Api Analytics",
+      "tag": "Google Cloud Platform - API Analytics",
       "icon": "/icons/api_analytics/api_analytics.png"
     },
     {
-      "tag": "Google Cloud Platform - Api Monetization",
+      "tag": "Google Cloud Platform - API Monetization",
       "icon": "/icons/api_monetization/api_monetization.png"
     },
     {
@@ -148,11 +151,11 @@
       "icon": "/icons/certificate_manager/certificate_manager.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Apis",
+      "tag": "Google Cloud Platform - Cloud APIs",
       "icon": "/icons/cloud_apis/cloud_apis.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Api Gateway",
+      "tag": "Google Cloud Platform - Cloud API Gateway",
       "icon": "/icons/cloud_api_gateway/cloud_api_gateway.png"
     },
     {
@@ -172,7 +175,7 @@
       "icon": "/icons/cloud_build/cloud_build.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Cdn",
+      "tag": "Google Cloud Platform - Cloud CDN",
       "icon": "/icons/cloud_cdn/cloud_cdn.png"
     },
     {
@@ -196,7 +199,7 @@
       "icon": "/icons/cloud_deployment_manager/cloud_deployment_manager.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Dns",
+      "tag": "Google Cloud Platform - Cloud DNS",
       "icon": "/icons/cloud_dns/cloud_dns.png"
     },
     {
@@ -204,7 +207,7 @@
       "icon": "/icons/cloud_domains/cloud_domains.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Ekm",
+      "tag": "Google Cloud Platform - Cloud EKM",
       "icon": "/icons/cloud_ekm/cloud_ekm.png"
     },
     {
@@ -232,11 +235,11 @@
       "icon": "/icons/cloud_generic/cloud_generic.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Gpu",
+      "tag": "Google Cloud Platform - Cloud GPU",
       "icon": "/icons/cloud_gpu/cloud_gpu.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Healthcare Api",
+      "tag": "Google Cloud Platform - Cloud Healthcare API",
       "icon": "/icons/cloud_healthcare_api/cloud_healthcare_api.png"
     },
     {
@@ -248,11 +251,11 @@
       "icon": "/icons/cloud_hsm/cloud_hsm.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Ids",
+      "tag": "Google Cloud Platform - Cloud IDS",
       "icon": "/icons/cloud_ids/cloud_ids.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Inference Api",
+      "tag": "Google Cloud Platform - Cloud Inference API",
       "icon": "/icons/cloud_inference_api/cloud_inference_api.png"
     },
     {
@@ -260,7 +263,7 @@
       "icon": "/icons/cloud_interconnect/cloud_interconnect.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Jobs Api",
+      "tag": "Google Cloud Platform - Cloud Jobs API",
       "icon": "/icons/cloud_jobs_api/cloud_jobs_api.png"
     },
     {
@@ -284,7 +287,7 @@
       "icon": "/icons/cloud_nat/cloud_nat.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Natural Language Api",
+      "tag": "Google Cloud Platform - Cloud Natural Language API",
       "icon": "/icons/cloud_natural_language_api/cloud_natural_language_api.png"
     },
     {
@@ -296,11 +299,11 @@
       "icon": "/icons/cloud_ops/cloud_ops.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Optimization Ai",
+      "tag": "Google Cloud Platform - Cloud Optimization AI",
       "icon": "/icons/cloud_optimization_ai/cloud_optimization_ai.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Optimization Ai - Fleet Routing Api",
+      "tag": "Google Cloud Platform - Cloud Optimization AI - Fleet Routing API",
       "icon": "/icons/cloud_optimization_ai_-_fleet_routing_api/cloud_optimization_ai_-_fleet_routing_api.png"
     },
     {
@@ -336,7 +339,7 @@
       "icon": "/icons/cloud_spanner/cloud_spanner.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Sql",
+      "tag": "Google Cloud Platform - Cloud SQL",
       "icon": "/icons/cloud_sql/cloud_sql.png"
     },
     {
@@ -352,19 +355,19 @@
       "icon": "/icons/cloud_test_lab/cloud_test_lab.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Tpu",
+      "tag": "Google Cloud Platform - Cloud TPU",
       "icon": "/icons/cloud_tpu/cloud_tpu.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Translation Api",
+      "tag": "Google Cloud Platform - Cloud Translation API",
       "icon": "/icons/cloud_translation_api/cloud_translation_api.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Vision Api",
+      "tag": "Google Cloud Platform - Cloud Vision API",
       "icon": "/icons/cloud_vision_api/cloud_vision_api.png"
     },
     {
-      "tag": "Google Cloud Platform - Cloud Vpn",
+      "tag": "Google Cloud Platform - Cloud VPN",
       "icon": "/icons/cloud_vpn/cloud_vpn.png"
     },
     {
@@ -384,11 +387,11 @@
       "icon": "/icons/connectors/connectors.png"
     },
     {
-      "tag": "Google Cloud Platform - Contact Center Ai",
+      "tag": "Google Cloud Platform - Contact Center AI",
       "icon": "/icons/contact_center_ai/contact_center_ai.png"
     },
     {
-      "tag": "Google Cloud Platform - Container Optimized Os",
+      "tag": "Google Cloud Platform - Container Optimized OS",
       "icon": "/icons/container_optimized_os/container_optimized_os.png"
     },
     {
@@ -452,11 +455,11 @@
       "icon": "/icons/data_layers/data_layers.png"
     },
     {
-      "tag": "Google Cloud Platform - Data Loss Prevention Api",
+      "tag": "Google Cloud Platform - Data Loss Prevention API",
       "icon": "/icons/data_loss_prevention_api/data_loss_prevention_api.png"
     },
     {
-      "tag": "Google Cloud Platform - Data Qna",
+      "tag": "Google Cloud Platform - Data QNA",
       "icon": "/icons/data_qna/data_qna.png"
     },
     {
@@ -480,7 +483,7 @@
       "icon": "/icons/dialogflow/dialogflow.png"
     },
     {
-      "tag": "Google Cloud Platform - Dialogflow Cx",
+      "tag": "Google Cloud Platform - Dialogflow CX",
       "icon": "/icons/dialogflow_cx/dialogflow_cx.png"
     },
     {
@@ -488,11 +491,7 @@
       "icon": "/icons/dialogflow_insights/dialogflow_insights.png"
     },
     {
-      "tag": "Google Cloud Platform - Dir.Txt",
-      "icon": "/icons/dir.txt/dir.txt.png"
-    },
-    {
-      "tag": "Google Cloud Platform - Document Ai",
+      "tag": "Google Cloud Platform - Document AI",
       "icon": "/icons/document_ai/document_ai.png"
     },
     {
@@ -556,10 +555,13 @@
       "icon": "/icons/google_maps_platform/google_maps_platform.png"
     },
     {
-      "tag": "Google Cloud Platform - Healthcare Nlp Api",
+      "tag": "Google Cloud Platform - Healthcare NLP API",
       "icon": "/icons/healthcare_nlp_api/healthcare_nlp_api.png"
     },
-    { "tag": "Google Cloud Platform - Home", "icon": "/icons/home/home.png" },
+    {
+      "tag": "Google Cloud Platform - Home",
+      "icon": "/icons/home/home.png"
+    },
     {
       "tag": "Google Cloud Platform - Identity-Aware Proxy",
       "icon": "/icons/identity-aware_proxy/identity-aware_proxy.png"
@@ -573,11 +575,11 @@
       "icon": "/icons/identity_platform/identity_platform.png"
     },
     {
-      "tag": "Google Cloud Platform - Iot Core",
+      "tag": "Google Cloud Platform - IOT Core",
       "icon": "/icons/iot_core/iot_core.png"
     },
     {
-      "tag": "Google Cloud Platform - Iot Edge",
+      "tag": "Google Cloud Platform - IOT Edge",
       "icon": "/icons/iot_edge/iot_edge.png"
     },
     {
@@ -597,7 +599,7 @@
       "icon": "/icons/launcher/launcher.png"
     },
     {
-      "tag": "Google Cloud Platform - Local Ssd",
+      "tag": "Google Cloud Platform - Local SSD",
       "icon": "/icons/local_ssd/local_ssd.png"
     },
     {
@@ -609,7 +611,7 @@
       "icon": "/icons/managed_service_for_microsoft_active_directory/managed_service_for_microsoft_active_directory.png"
     },
     {
-      "tag": "Google Cloud Platform - Media Translation Api",
+      "tag": "Google Cloud Platform - Media Translation API",
       "icon": "/icons/media_translation_api/media_translation_api.png"
     },
     {
@@ -653,15 +655,15 @@
       "icon": "/icons/onboarding/onboarding.png"
     },
     {
-      "tag": "Google Cloud Platform - Os Configuration Management",
+      "tag": "Google Cloud Platform - OS Configuration Management",
       "icon": "/icons/os_configuration_management/os_configuration_management.png"
     },
     {
-      "tag": "Google Cloud Platform - Os Inventory Management",
+      "tag": "Google Cloud Platform - OS Inventory Management",
       "icon": "/icons/os_inventory_management/os_inventory_management.png"
     },
     {
-      "tag": "Google Cloud Platform - Os Patch Management",
+      "tag": "Google Cloud Platform - OS Patch Management",
       "icon": "/icons/os_patch_management/os_patch_management.png"
     },
     {
@@ -733,7 +735,7 @@
       "icon": "/icons/real-world_insights/real-world_insights.png"
     },
     {
-      "tag": "Google Cloud Platform - Recommendations Ai",
+      "tag": "Google Cloud Platform - Recommendations AI",
       "icon": "/icons/recommendations_ai/recommendations_ai.png"
     },
     {
@@ -741,7 +743,7 @@
       "icon": "/icons/release_notes/release_notes.png"
     },
     {
-      "tag": "Google Cloud Platform - Retail Api",
+      "tag": "Google Cloud Platform - Retail API",
       "icon": "/icons/retail_api/retail_api.png"
     },
     {
@@ -833,7 +835,7 @@
       "icon": "/icons/vertexai/vertexai.png"
     },
     {
-      "tag": "Google Cloud Platform - Video Intelligence Api",
+      "tag": "Google Cloud Platform - Video Intelligence API",
       "icon": "/icons/video_intelligence_api/video_intelligence_api.png"
     },
     {
