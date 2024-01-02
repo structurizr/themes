@@ -74,6 +74,9 @@
     "tag" : "Amazon Web Services - AWS License Manager Application Discovery",
     "icon" : "Res_AWS-License-Manager_Application-Discovery_48_Light.png"
   }, {
+    "tag" : "Amazon Web Services - API Gateway",
+    "icon" : "Arch_Amazon-API-Gateway_48.png"
+  }, {
     "tag" : "Amazon Web Services - AWS IoT Greengrass Component",
     "icon" : "Res_AWS-IoT-Greengrass_Component_48_Light.png"
   }, {
@@ -103,9 +106,6 @@
   }, {
     "tag" : "Amazon Web Services - Connect",
     "icon" : "Arch_Amazon-Connect_48.png"
-  }, {
-    "tag" : "Amazon Web Services - AWS IoT Sailboat",
-    "icon" : "Res_AWS-IoT_Sailboat _48_Light.png"
   }, {
     "tag" : "Amazon Web Services - Firewall Manager",
     "icon" : "Arch_AWS-Firewall-Manager_48.png"
@@ -280,9 +280,6 @@
   }, {
     "tag" : "Amazon Web Services - AWS IoT Greengrass Component Public",
     "icon" : "Res_AWS-IoT-Greengrass_Component-Public_48_Light.png"
-  }, {
-    "tag" : "Amazon Web Services - Amazon API Gateway",
-    "icon" : "Arch_ Amazon-API-Gateway_48.png"
   }, {
     "tag" : "Amazon Web Services - AWS Identity Access Management Data Encryption Key",
     "icon" : "Res_AWS-Identity-Access-Management_Data-Encryption-Key_48_Light.png"
@@ -611,9 +608,6 @@
     "tag" : "Amazon Web Services - EC2 M5dn Instance",
     "icon" : "Res_Amazon-EC2_M5dn-Instance_48_Light.png"
   }, {
-    "tag" : "Amazon Web Services - EC2 R5b Instance",
-    "icon" : "Res_Amazon-EC2_R5b-Instance _48_Light.png"
-  }, {
     "tag" : "Amazon Web Services - EC2 C6g Instance",
     "icon" : "Res_Amazon-EC2_C6g-Instance_48_Light.png"
   }, {
@@ -682,6 +676,9 @@
   }, {
     "tag" : "Amazon Web Services - Bottlerocket",
     "icon" : "Arch_Bottlerocket_48.png"
+  }, {
+    "tag" : "Amazon Web Services - AWS IoT Sailboat",
+    "icon" : "Res_AWS-IoT_Sailboat_48_Light.png"
   }, {
     "tag" : "Amazon Web Services - AWS IoT Actuator",
     "icon" : "Res_AWS-IoT_Actuator_48_Light.png"
@@ -1259,6 +1256,9 @@
     "tag" : "Amazon Web Services - AWS CloudFormation Change Set",
     "icon" : "Res_AWS-CloudFormation_Change-Set_48_Light.png"
   }, {
+    "tag" : "Amazon Web Services - AWS IoT LoRaWAN Protocol",
+    "icon" : "Res_AWS-IoT_LoRaWAN-Protocol_48_Light.png"
+  }, {
     "tag" : "Amazon Web Services - Elemental Appliances & Software",
     "icon" : "Arch_AWS-Elemental-Appliances-&-Software_48.png"
   }, {
@@ -1447,9 +1447,6 @@
   }, {
     "tag" : "Amazon Web Services - App Mesh",
     "icon" : "Arch_AWS-App-Mesh_48.png"
-  }, {
-    "tag" : "Amazon Web Services - AWS IoT LoRaWAN Protocol",
-    "icon" : "Res_AWS-IoT_LoRaWAN-Protocol _48_Light.png"
   }, {
     "tag" : "Amazon Web Services - EC2 Inf2 Instance",
     "icon" : "Res_Amazon-EC2_Inf2-Instance_48_Light.png"
@@ -2147,9 +2144,6 @@
     "tag" : "Amazon Web Services - VPC VPN Gateway",
     "icon" : "Res_Amazon-VPC_VPN-Gateway_48_Light.png"
   }, {
-    "tag" : "Amazon Web Services - Console Mobile Application",
-    "icon" : "Arch_AWS-Console-Mobile-Application _48.png"
-  }, {
     "tag" : "Amazon Web Services - CloudWatch Event Event Based",
     "icon" : "Res_Amazon-CloudWatch_Event-Event-Based_48_Light.png"
   }, {
@@ -2290,6 +2284,12 @@
   }, {
     "tag" : "Amazon Web Services - CodeStar",
     "icon" : "Arch_AWS-CodeStar_48.png"
+  }, {
+    "tag" : "Amazon Web Services - EC2 R5b Instance",
+    "icon" : "Res_Amazon-EC2_R5b-Instance_48_Light.png"
+  }, {
+    "tag" : "Amazon Web Services - Console Mobile Application",
+    "icon" : "Arch_AWS-Console-Mobile-Application_48.png"
   }, {
     "tag" : "Amazon Web Services - Tools and SDKs",
     "icon" : "Arch_AWS-Tools-and-SDKs_48.png"
