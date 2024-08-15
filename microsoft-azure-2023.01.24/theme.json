@@ -158,8 +158,8 @@
     "icon" : "10117-icon-service-Edge-Management.png"
   }, {
     "tag" : "Microsoft Azure - Key Vaults",
-    "stroke" : "#ffd70f",
-    "color" : "#ffd70f",
+    "stroke" : "#000000",
+    "color" : "#000000",
     "icon" : "10245-icon-service-Key-Vaults.png"
   }, {
     "tag" : "Microsoft Azure - Container Instances",
