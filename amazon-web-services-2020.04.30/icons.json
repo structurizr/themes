@@ -107,8 +107,8 @@
     "tag" : "Amazon Web Services - Data Pipeline",
     "icon" : "aws-data-pipeline.png"
   }, {
-    "tag" : "Amazon Web Services - Data lake Resource icon",
-    "icon" : "aws-data-lake-resource-icon.png"
+    "tag" : "Amazon Web Services - Data lake Resource",
+    "icon" : "aws-data-lake-resource.png"
   }, {
     "tag" : "Amazon Web Services - DataSync",
     "icon" : "aws-datasync.png"

@@ -177,10 +177,10 @@
     "color" : "#693cc5",
     "icon" : "aws-data-pipeline.png"
   }, {
-    "tag" : "Amazon Web Services - Data lake Resource icon",
+    "tag" : "Amazon Web Services - Data lake Resource",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
-    "icon" : "aws-data-lake-resource-icon.png"
+    "icon" : "aws-data-lake-resource.png"
   }, {
     "tag" : "Amazon Web Services - DataSync",
     "stroke" : "#1c7b68",
