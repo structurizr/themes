@@ -1,0 +1,540 @@
+{
+  "name" : "Google Cloud",
+  "description" : "This theme includes element styles with icons for each of the Google Cloud services, based upon the official set of icons to build architectural diagrams of Google Cloud (https://cloud.google.com/icons).",
+  "elements" : [ {
+    "tag" : "Google Cloud - Advanced Solutions Lab.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "advanced-solutions-lab.png"
+  }, {
+    "tag" : "Google Cloud - AI Hub.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "ai-hub.png"
+  }, {
+    "tag" : "Google Cloud - AI Platform Data Labeling Service.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "ai-platform-data-labeling-service.png"
+  }, {
+    "tag" : "Google Cloud - AI Platform.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "ai-platform.png"
+  }, {
+    "tag" : "Google Cloud - API Analytics.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "api-analytics.png"
+  }, {
+    "tag" : "Google Cloud - API Monetization.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "api-monetization.png"
+  }, {
+    "tag" : "Google Cloud - Apigee API Platform.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "apigee-api-platform.png"
+  }, {
+    "tag" : "Google Cloud - Apigee Sense.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "apigee-sense.png"
+  }, {
+    "tag" : "Google Cloud - App Engine.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "app-engine.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Natural Language.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "automl-natural-language.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Tables.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "automl-tables.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Translation.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "automl-translation.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Video Intelligence.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "automl-video-intelligence.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Vision.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "automl-vision.png"
+  }, {
+    "tag" : "Google Cloud - BigQuery.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "bigquery.png"
+  }, {
+    "tag" : "Google Cloud - Cloud APIs.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-apis.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Armor.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-armor.png"
+  }, {
+    "tag" : "Google Cloud - Cloud AutoML.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-automl.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Bigtable.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-bigtable.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Billing API.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-billing-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Build.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-build.png"
+  }, {
+    "tag" : "Google Cloud - Cloud CDN.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-cdn.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Code for IntelliJ.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-code-for-intellij.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Code.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-code.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Composer.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-composer.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Console.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-console.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Data Catalog.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-data-catalog.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Data Fusion.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-data-fusion.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Dataflow.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-dataflow.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Datalab.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-datalab.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Dataprep.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-dataprep.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Dataproc.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-dataproc.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Datastore.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-datastore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Deployment Manager.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-deployment-manager.png"
+  }, {
+    "tag" : "Google Cloud - Cloud DNS.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-dns.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Endpoints.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-endpoints.png"
+  }, {
+    "tag" : "Google Cloud - Cloud External IP Addresses.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-external-ip-addresses.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Filestore.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-filestore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Firestore.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-firestore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Firewall Rules.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-firewall-rules.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Functions.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-functions.png"
+  }, {
+    "tag" : "Google Cloud - Cloud IAM.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-iam.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Inference API.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-inference-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud IoT Core.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-iot-core.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Jobs API.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-jobs-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Load Balancing.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-load-balancing.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Memorystore.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-memorystore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Mobile App.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-mobile-app.png"
+  }, {
+    "tag" : "Google Cloud - Cloud NAT.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-nat.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Natural Language API.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-natural-language-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Network.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-network.png"
+  }, {
+    "tag" : "Google Cloud - Cloud PubSub.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-pubsub.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Resource Manager.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-resource-manager.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Router.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-router.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Routes.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-routes.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Run.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-run.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Scheduler.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-scheduler.png"
+  }, {
+    "tag" : "Google Cloud - Cloud SDK.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-sdk.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Security Command Center.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-security-command-center.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Security Scanner.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-security-scanner.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Service Mesh.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-service-mesh.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Shell.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-shell.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Source Repositories.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-source-repositories.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Spanner.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-spanner.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Speech-to-Text.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-speech-to-text.png"
+  }, {
+    "tag" : "Google Cloud - Cloud SQL.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-sql.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Storage.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-storage.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tasks.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-tasks.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Test Lab.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-test-lab.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Text-to-Speech.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-text-to-speech.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tools for Eclipse.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-tools-for-eclipse.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tools for PowerShell.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-tools-for-powershell.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tools for Visual Studio.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-tools-for-visual-studio.png"
+  }, {
+    "tag" : "Google Cloud - Cloud TPU.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-tpu.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Translation API.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-translation-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Video Intelligence API.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-video-intelligence-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Vision API.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-vision-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud VPN.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "cloud-vpn.png"
+  }, {
+    "tag" : "Google Cloud - Compute Engine.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "compute-engine.png"
+  }, {
+    "tag" : "Google Cloud - Container Registry.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "container-registry.png"
+  }, {
+    "tag" : "Google Cloud - Container-Optimized OS.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "container-optimized-os.png"
+  }, {
+    "tag" : "Google Cloud - Debugger.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "debugger.png"
+  }, {
+    "tag" : "Google Cloud - Dedicated Interconnect.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "dedicated-interconnect.png"
+  }, {
+    "tag" : "Google Cloud - Developer Portal.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "developer-portal.png"
+  }, {
+    "tag" : "Google Cloud - Dialog Flow Enterprise Edition.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "dialog-flow-enterprise-edition.png"
+  }, {
+    "tag" : "Google Cloud - Error Reporting.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "error-reporting.png"
+  }, {
+    "tag" : "Google Cloud - Genomics.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "genomics.png"
+  }, {
+    "tag" : "Google Cloud - GKE On-Prem.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "gke-on-prem.png"
+  }, {
+    "tag" : "Google Cloud - GPU.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "gpu.png"
+  }, {
+    "tag" : "Google Cloud - Gradle App Engine Plugin.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "gradle-app-engine-plugin.png"
+  }, {
+    "tag" : "Google Cloud - IDE Plugins.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "ide-plugins.png"
+  }, {
+    "tag" : "Google Cloud - Key Management Service.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "key-management-service.png"
+  }, {
+    "tag" : "Google Cloud - Kubernetes Engine.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "kubernetes-engine.png"
+  }, {
+    "tag" : "Google Cloud - Logging.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "logging.png"
+  }, {
+    "tag" : "Google Cloud - Maven App Engine Plugin.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "maven-app-engine-plugin.png"
+  }, {
+    "tag" : "Google Cloud - Monitoring.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "monitoring.png"
+  }, {
+    "tag" : "Google Cloud - Partner Interconnect.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "partner-interconnect.png"
+  }, {
+    "tag" : "Google Cloud - Persistent Disk.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "persistent-disk.png"
+  }, {
+    "tag" : "Google Cloud - Premium Network Tier.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "premium-network-tier.png"
+  }, {
+    "tag" : "Google Cloud - Profiler.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "profiler.png"
+  }, {
+    "tag" : "Google Cloud - Recommendations AI.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "recommendations-ai.png"
+  }, {
+    "tag" : "Google Cloud - Stackdriver.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "stackdriver.png"
+  }, {
+    "tag" : "Google Cloud - Standard Network Tier.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "standard-network-tier.png"
+  }, {
+    "tag" : "Google Cloud - Trace.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "trace.png"
+  }, {
+    "tag" : "Google Cloud - Traffic Director.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "traffic-director.png"
+  }, {
+    "tag" : "Google Cloud - Transfer Appliance.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "transfer-appliance.png"
+  }, {
+    "tag" : "Google Cloud - Virtual Private Cloud.png",
+    "stroke" : "#4285f4",
+    "color" : "#4285f4",
+    "icon" : "virtual-private-cloud.png"
+  } ]
+}

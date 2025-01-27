@@ -1,0 +1,326 @@
+{
+  "name" : "Google Cloud",
+  "description" : "This theme includes element styles with icons for each of the Google Cloud services, based upon the official set of icons to build architectural diagrams of Google Cloud (https://cloud.google.com/icons).",
+  "elements" : [ {
+    "tag" : "Google Cloud - Advanced Solutions Lab.png",
+    "icon" : "advanced-solutions-lab.png"
+  }, {
+    "tag" : "Google Cloud - AI Hub.png",
+    "icon" : "ai-hub.png"
+  }, {
+    "tag" : "Google Cloud - AI Platform Data Labeling Service.png",
+    "icon" : "ai-platform-data-labeling-service.png"
+  }, {
+    "tag" : "Google Cloud - AI Platform.png",
+    "icon" : "ai-platform.png"
+  }, {
+    "tag" : "Google Cloud - API Analytics.png",
+    "icon" : "api-analytics.png"
+  }, {
+    "tag" : "Google Cloud - API Monetization.png",
+    "icon" : "api-monetization.png"
+  }, {
+    "tag" : "Google Cloud - Apigee API Platform.png",
+    "icon" : "apigee-api-platform.png"
+  }, {
+    "tag" : "Google Cloud - Apigee Sense.png",
+    "icon" : "apigee-sense.png"
+  }, {
+    "tag" : "Google Cloud - App Engine.png",
+    "icon" : "app-engine.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Natural Language.png",
+    "icon" : "automl-natural-language.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Tables.png",
+    "icon" : "automl-tables.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Translation.png",
+    "icon" : "automl-translation.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Video Intelligence.png",
+    "icon" : "automl-video-intelligence.png"
+  }, {
+    "tag" : "Google Cloud - AutoML Vision.png",
+    "icon" : "automl-vision.png"
+  }, {
+    "tag" : "Google Cloud - BigQuery.png",
+    "icon" : "bigquery.png"
+  }, {
+    "tag" : "Google Cloud - Cloud APIs.png",
+    "icon" : "cloud-apis.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Armor.png",
+    "icon" : "cloud-armor.png"
+  }, {
+    "tag" : "Google Cloud - Cloud AutoML.png",
+    "icon" : "cloud-automl.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Bigtable.png",
+    "icon" : "cloud-bigtable.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Billing API.png",
+    "icon" : "cloud-billing-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Build.png",
+    "icon" : "cloud-build.png"
+  }, {
+    "tag" : "Google Cloud - Cloud CDN.png",
+    "icon" : "cloud-cdn.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Code for IntelliJ.png",
+    "icon" : "cloud-code-for-intellij.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Code.png",
+    "icon" : "cloud-code.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Composer.png",
+    "icon" : "cloud-composer.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Console.png",
+    "icon" : "cloud-console.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Data Catalog.png",
+    "icon" : "cloud-data-catalog.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Data Fusion.png",
+    "icon" : "cloud-data-fusion.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Dataflow.png",
+    "icon" : "cloud-dataflow.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Datalab.png",
+    "icon" : "cloud-datalab.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Dataprep.png",
+    "icon" : "cloud-dataprep.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Dataproc.png",
+    "icon" : "cloud-dataproc.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Datastore.png",
+    "icon" : "cloud-datastore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Deployment Manager.png",
+    "icon" : "cloud-deployment-manager.png"
+  }, {
+    "tag" : "Google Cloud - Cloud DNS.png",
+    "icon" : "cloud-dns.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Endpoints.png",
+    "icon" : "cloud-endpoints.png"
+  }, {
+    "tag" : "Google Cloud - Cloud External IP Addresses.png",
+    "icon" : "cloud-external-ip-addresses.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Filestore.png",
+    "icon" : "cloud-filestore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Firestore.png",
+    "icon" : "cloud-firestore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Firewall Rules.png",
+    "icon" : "cloud-firewall-rules.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Functions.png",
+    "icon" : "cloud-functions.png"
+  }, {
+    "tag" : "Google Cloud - Cloud IAM.png",
+    "icon" : "cloud-iam.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Inference API.png",
+    "icon" : "cloud-inference-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud IoT Core.png",
+    "icon" : "cloud-iot-core.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Jobs API.png",
+    "icon" : "cloud-jobs-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Load Balancing.png",
+    "icon" : "cloud-load-balancing.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Memorystore.png",
+    "icon" : "cloud-memorystore.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Mobile App.png",
+    "icon" : "cloud-mobile-app.png"
+  }, {
+    "tag" : "Google Cloud - Cloud NAT.png",
+    "icon" : "cloud-nat.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Natural Language API.png",
+    "icon" : "cloud-natural-language-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Network.png",
+    "icon" : "cloud-network.png"
+  }, {
+    "tag" : "Google Cloud - Cloud PubSub.png",
+    "icon" : "cloud-pubsub.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Resource Manager.png",
+    "icon" : "cloud-resource-manager.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Router.png",
+    "icon" : "cloud-router.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Routes.png",
+    "icon" : "cloud-routes.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Run.png",
+    "icon" : "cloud-run.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Scheduler.png",
+    "icon" : "cloud-scheduler.png"
+  }, {
+    "tag" : "Google Cloud - Cloud SDK.png",
+    "icon" : "cloud-sdk.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Security Command Center.png",
+    "icon" : "cloud-security-command-center.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Security Scanner.png",
+    "icon" : "cloud-security-scanner.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Service Mesh.png",
+    "icon" : "cloud-service-mesh.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Shell.png",
+    "icon" : "cloud-shell.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Source Repositories.png",
+    "icon" : "cloud-source-repositories.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Spanner.png",
+    "icon" : "cloud-spanner.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Speech-to-Text.png",
+    "icon" : "cloud-speech-to-text.png"
+  }, {
+    "tag" : "Google Cloud - Cloud SQL.png",
+    "icon" : "cloud-sql.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Storage.png",
+    "icon" : "cloud-storage.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tasks.png",
+    "icon" : "cloud-tasks.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Test Lab.png",
+    "icon" : "cloud-test-lab.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Text-to-Speech.png",
+    "icon" : "cloud-text-to-speech.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tools for Eclipse.png",
+    "icon" : "cloud-tools-for-eclipse.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tools for PowerShell.png",
+    "icon" : "cloud-tools-for-powershell.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Tools for Visual Studio.png",
+    "icon" : "cloud-tools-for-visual-studio.png"
+  }, {
+    "tag" : "Google Cloud - Cloud TPU.png",
+    "icon" : "cloud-tpu.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Translation API.png",
+    "icon" : "cloud-translation-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Video Intelligence API.png",
+    "icon" : "cloud-video-intelligence-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud Vision API.png",
+    "icon" : "cloud-vision-api.png"
+  }, {
+    "tag" : "Google Cloud - Cloud VPN.png",
+    "icon" : "cloud-vpn.png"
+  }, {
+    "tag" : "Google Cloud - Compute Engine.png",
+    "icon" : "compute-engine.png"
+  }, {
+    "tag" : "Google Cloud - Container Registry.png",
+    "icon" : "container-registry.png"
+  }, {
+    "tag" : "Google Cloud - Container-Optimized OS.png",
+    "icon" : "container-optimized-os.png"
+  }, {
+    "tag" : "Google Cloud - Debugger.png",
+    "icon" : "debugger.png"
+  }, {
+    "tag" : "Google Cloud - Dedicated Interconnect.png",
+    "icon" : "dedicated-interconnect.png"
+  }, {
+    "tag" : "Google Cloud - Developer Portal.png",
+    "icon" : "developer-portal.png"
+  }, {
+    "tag" : "Google Cloud - Dialog Flow Enterprise Edition.png",
+    "icon" : "dialog-flow-enterprise-edition.png"
+  }, {
+    "tag" : "Google Cloud - Error Reporting.png",
+    "icon" : "error-reporting.png"
+  }, {
+    "tag" : "Google Cloud - Genomics.png",
+    "icon" : "genomics.png"
+  }, {
+    "tag" : "Google Cloud - GKE On-Prem.png",
+    "icon" : "gke-on-prem.png"
+  }, {
+    "tag" : "Google Cloud - GPU.png",
+    "icon" : "gpu.png"
+  }, {
+    "tag" : "Google Cloud - Gradle App Engine Plugin.png",
+    "icon" : "gradle-app-engine-plugin.png"
+  }, {
+    "tag" : "Google Cloud - IDE Plugins.png",
+    "icon" : "ide-plugins.png"
+  }, {
+    "tag" : "Google Cloud - Key Management Service.png",
+    "icon" : "key-management-service.png"
+  }, {
+    "tag" : "Google Cloud - Kubernetes Engine.png",
+    "icon" : "kubernetes-engine.png"
+  }, {
+    "tag" : "Google Cloud - Logging.png",
+    "icon" : "logging.png"
+  }, {
+    "tag" : "Google Cloud - Maven App Engine Plugin.png",
+    "icon" : "maven-app-engine-plugin.png"
+  }, {
+    "tag" : "Google Cloud - Monitoring.png",
+    "icon" : "monitoring.png"
+  }, {
+    "tag" : "Google Cloud - Partner Interconnect.png",
+    "icon" : "partner-interconnect.png"
+  }, {
+    "tag" : "Google Cloud - Persistent Disk.png",
+    "icon" : "persistent-disk.png"
+  }, {
+    "tag" : "Google Cloud - Premium Network Tier.png",
+    "icon" : "premium-network-tier.png"
+  }, {
+    "tag" : "Google Cloud - Profiler.png",
+    "icon" : "profiler.png"
+  }, {
+    "tag" : "Google Cloud - Recommendations AI.png",
+    "icon" : "recommendations-ai.png"
+  }, {
+    "tag" : "Google Cloud - Stackdriver.png",
+    "icon" : "stackdriver.png"
+  }, {
+    "tag" : "Google Cloud - Standard Network Tier.png",
+    "icon" : "standard-network-tier.png"
+  }, {
+    "tag" : "Google Cloud - Trace.png",
+    "icon" : "trace.png"
+  }, {
+    "tag" : "Google Cloud - Traffic Director.png",
+    "icon" : "traffic-director.png"
+  }, {
+    "tag" : "Google Cloud - Transfer Appliance.png",
+    "icon" : "transfer-appliance.png"
+  }, {
+    "tag" : "Google Cloud - Virtual Private Cloud.png",
+    "icon" : "virtual-private-cloud.png"
+  } ]
+}
