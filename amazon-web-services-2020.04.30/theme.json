@@ -2,10 +2,25 @@
   "name" : "Amazon Web Services",
   "description" : "This theme includes element styles with icons for each of the AWS services, based upon the AWS Architecture Icons (https://aws.amazon.com/architecture/icons/).",
   "elements" : [ {
+    "tag" : "Amazon Web Services - Alexa For Business",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "alexa-for-business.png"
+  }, {
     "tag" : "Amazon Web Services - Amplify",
     "stroke" : "#d6242d",
     "color" : "#d6242d",
     "icon" : "aws-amplify.png"
+  }, {
+    "tag" : "Amazon Web Services - API Gateway",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "amazon-api-gateway.png"
+  }, {
+    "tag" : "Amazon Web Services - API Gateway Endpoint",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "amazon-api-gateway-endpoint.png"
   }, {
     "tag" : "Amazon Web Services - App Config",
     "stroke" : "#cd2264",
@@ -17,20 +32,35 @@
     "color" : "#693cc5",
     "icon" : "aws-app-mesh.png"
   }, {
-    "tag" : "Amazon Web Services - AppSync",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-appsync.png"
-  }, {
     "tag" : "Amazon Web Services - Application Discovery Service",
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "aws-application-discovery-service.png"
   }, {
+    "tag" : "Amazon Web Services - Appstream 2.0",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "amazon-appstream-2-0.png"
+  }, {
+    "tag" : "Amazon Web Services - AppSync",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-appsync.png"
+  }, {
     "tag" : "Amazon Web Services - Artifact",
     "stroke" : "#d6242d",
     "color" : "#d6242d",
     "icon" : "aws-artifact.png"
+  }, {
+    "tag" : "Amazon Web Services - Athena",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-athena.png"
+  }, {
+    "tag" : "Amazon Web Services - Aurora",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "amazon-aurora.png"
   }, {
     "tag" : "Amazon Web Services - Auto Scaling",
     "stroke" : "#cc2264",
@@ -62,25 +92,35 @@
     "color" : "#d6242d",
     "icon" : "aws-certificate-manager.png"
   }, {
+    "tag" : "Amazon Web Services - Chime",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "amazon-chime.png"
+  }, {
     "tag" : "Amazon Web Services - Client VPN",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "aws-client-vpn.png"
+  }, {
+    "tag" : "Amazon Web Services - Cloud",
+    "stroke" : "#232f3e",
+    "color" : "#232f3e",
+    "icon" : "aws-cloud.png"
   }, {
     "tag" : "Amazon Web Services - Cloud Development Kit",
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
     "icon" : "aws-cloud-development-kit.png"
   }, {
+    "tag" : "Amazon Web Services - Cloud Directory",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "amazon-cloud-directory.png"
+  }, {
     "tag" : "Amazon Web Services - Cloud Map",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "aws-cloud-map.png"
-  }, {
-    "tag" : "Amazon Web Services - Cloud",
-    "stroke" : "#232f3e",
-    "color" : "#232f3e",
-    "icon" : "aws-cloud.png"
   }, {
     "tag" : "Amazon Web Services - Cloud9",
     "stroke" : "#3b48cc",
@@ -107,15 +147,70 @@
     "color" : "#cd2264",
     "icon" : "aws-cloudformation-template.png"
   }, {
+    "tag" : "Amazon Web Services - CloudFront",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-cloudfront.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudFront Download Distribution",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-cloudfront-download-distribution.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudFront Edge Location",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-cloudfront-edge-location.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudFront Streaming Distribution",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-cloudfront-streaming-distribution.png"
+  }, {
     "tag" : "Amazon Web Services - CloudHSM",
     "stroke" : "#d6242d",
     "color" : "#d6242d",
     "icon" : "aws-cloudhsm.png"
   }, {
+    "tag" : "Amazon Web Services - CloudSearch",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-cloudsearch.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudSearch Search documents",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-cloudsearch-search-documents.png"
+  }, {
     "tag" : "Amazon Web Services - CloudTrail",
     "stroke" : "#cc2264",
     "color" : "#cc2264",
     "icon" : "aws-cloudtrail.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudWatch",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "amazon-cloudwatch.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudWatch Alarm",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "amazon-cloudwatch-alarm.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudWatch Event Event Based",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "amazon-cloudwatch-event-event-based.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudWatch Event Time Based",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "amazon-cloudwatch-event-time-based.png"
+  }, {
+    "tag" : "Amazon Web Services - CloudWatch Rule",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "amazon-cloudwatch-rule.png"
   }, {
     "tag" : "Amazon Web Services - CodeBuild",
     "stroke" : "#3b48cc",
@@ -142,20 +237,45 @@
     "color" : "#3b48cc",
     "icon" : "aws-codestar.png"
   }, {
+    "tag" : "Amazon Web Services - Cognito",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "amazon-cognito.png"
+  }, {
     "tag" : "Amazon Web Services - Command Line Interface",
     "stroke" : "#cc2264",
     "color" : "#cc2264",
     "icon" : "aws-command-line-interface.png"
+  }, {
+    "tag" : "Amazon Web Services - Comprehend",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "amazon-comprehend.png"
   }, {
     "tag" : "Amazon Web Services - Config",
     "stroke" : "#cc2264",
     "color" : "#cc2264",
     "icon" : "aws-config.png"
   }, {
+    "tag" : "Amazon Web Services - Connect",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "amazon-connect.png"
+  }, {
     "tag" : "Amazon Web Services - Control Tower",
     "stroke" : "#cc2264",
     "color" : "#cc2264",
     "icon" : "aws-control-tower.png"
+  }, {
+    "tag" : "Amazon Web Services - Corporate data center",
+    "stroke" : "#5a6c86",
+    "color" : "#5a6c86",
+    "icon" : "corporate-data-center.png"
+  }, {
+    "tag" : "Amazon Web Services - Cost and Usage Report",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-cost-and-usage-report.png"
   }, {
     "tag" : "Amazon Web Services - Cost Explorer",
     "stroke" : "#3f8624",
@@ -167,30 +287,15 @@
     "color" : "#000000",
     "icon" : "aws-cost-management.png"
   }, {
-    "tag" : "Amazon Web Services - Cost and Usage Report",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-cost-and-usage-report.png"
-  }, {
-    "tag" : "Amazon Web Services - Data Pipeline",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-data-pipeline.png"
-  }, {
     "tag" : "Amazon Web Services - Data lake Resource",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "aws-data-lake-resource.png"
   }, {
-    "tag" : "Amazon Web Services - DataSync",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "aws-datasync.png"
-  }, {
-    "tag" : "Amazon Web Services - DataSync Agent",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "aws-datasync-agent.png"
+    "tag" : "Amazon Web Services - Data Pipeline",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-data-pipeline.png"
   }, {
     "tag" : "Amazon Web Services - Database Migration Service",
     "stroke" : "#3b48cc",
@@ -201,6 +306,16 @@
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
     "icon" : "aws-database-migration-service-database-migration-workflow.png"
+  }, {
+    "tag" : "Amazon Web Services - DataSync",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "aws-datasync.png"
+  }, {
+    "tag" : "Amazon Web Services - DataSync Agent",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "aws-datasync-agent.png"
   }, {
     "tag" : "Amazon Web Services - Deep Learning AMIs",
     "stroke" : "#1c7b68",
@@ -236,726 +351,6 @@
     "stroke" : "#d6242d",
     "color" : "#d6242d",
     "icon" : "aws-directory-service.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Beanstalk",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elastic-beanstalk.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Beanstalk Application",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elastic-beanstalk-application.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Beanstalk Deployment",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elastic-beanstalk-deployment.png"
-  }, {
-    "tag" : "Amazon Web Services - Elemental MediaConnect",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elemental-mediaconnect.png"
-  }, {
-    "tag" : "Amazon Web Services - Elemental MediaConvert",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elemental-mediaconvert.png"
-  }, {
-    "tag" : "Amazon Web Services - Elemental MediaLive",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elemental-medialive.png"
-  }, {
-    "tag" : "Amazon Web Services - Elemental MediaPackage",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elemental-mediapackage.png"
-  }, {
-    "tag" : "Amazon Web Services - Elemental MediaStore",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elemental-mediastore.png"
-  }, {
-    "tag" : "Amazon Web Services - Elemental MediaTailor",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-elemental-mediatailor.png"
-  }, {
-    "tag" : "Amazon Web Services - Fargate",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-fargate.png"
-  }, {
-    "tag" : "Amazon Web Services - Firewall Manager",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-firewall-manager.png"
-  }, {
-    "tag" : "Amazon Web Services - Global Accelerator",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-global-accelerator.png"
-  }, {
-    "tag" : "Amazon Web Services - Glue",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-glue.png"
-  }, {
-    "tag" : "Amazon Web Services - Glue Crawlers",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-glue-crawlers.png"
-  }, {
-    "tag" : "Amazon Web Services - Glue Data catalog",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-glue-data-catalog.png"
-  }, {
-    "tag" : "Amazon Web Services - Ground Station",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "aws-ground-station.png"
-  }, {
-    "tag" : "Amazon Web Services - IQ",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "aws-iq.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM AWS STS Alternate",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-aws-sts-alternate.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM AWS STS",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-aws-sts.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM Add on",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-add-on.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM Data Encryption Key",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-data-encryption-key.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM Encrypted Data",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-encrypted-data.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM Long term Security Credential",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-long-term-security-credential.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM MFA Token",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-mfa-token.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM Permissions",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-permissions.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM Role",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-role.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM Temporary Security Credential",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam-temporary-security-credential.png"
-  }, {
-    "tag" : "Amazon Web Services - Identity and Access Management IAM",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-identity-and-access-management-iam.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT 1 Click",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-1-click.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Analytics",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-analytics.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Analytics Channel",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-analytics-channel.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Analytics Data Set",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-analytics-data-set.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Analytics Data Store",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-analytics-data-store.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Analytics Notebook",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-analytics-notebook.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Analytics Pipeline",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-analytics-pipeline.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Button",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-button.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Core",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-core.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Device Defender",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-device-defender.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Device Management",
-    "stroke" : "#60a337",
-    "color" : "#60a337",
-    "icon" : "aws-iot-device-management.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Events",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-events.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Greengrass",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-greengrass.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Greengrass Connector",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-greengrass-connector.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT SiteWise",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-sitewise.png"
-  }, {
-    "tag" : "Amazon Web Services - IoT Things Graph",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-iot-things-graph.png"
-  }, {
-    "tag" : "Amazon Web Services - Key Management Service",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-key-management-service.png"
-  }, {
-    "tag" : "Amazon Web Services - Lake Formation",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-lake-formation.png"
-  }, {
-    "tag" : "Amazon Web Services - Lambda",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-lambda.png"
-  }, {
-    "tag" : "Amazon Web Services - Lambda Lambda Function",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-lambda-lambda-function.png"
-  }, {
-    "tag" : "Amazon Web Services - License Manager",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-license-manager.png"
-  }, {
-    "tag" : "Amazon Web Services - Managed Microsoft AD",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-managed-microsoft-ad.png"
-  }, {
-    "tag" : "Amazon Web Services - Managed Services",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-managed-services.png"
-  }, {
-    "tag" : "Amazon Web Services - Management Console",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-management-console.png"
-  }, {
-    "tag" : "Amazon Web Services - Marketplace",
-    "stroke" : "#232f3e",
-    "color" : "#232f3e",
-    "icon" : "aws-marketplace.png"
-  }, {
-    "tag" : "Amazon Web Services - Migration Hub",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "aws-migration-hub.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-opsworks.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Apps",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-apps.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Deployments",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-deployments.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Instances",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-instances.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Layers",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-layers.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Monitoring",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-monitoring.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Permissions",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-permissions.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Resources",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-resources.png"
-  }, {
-    "tag" : "Amazon Web Services - OpsWorks Stack2",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-opsworks-stack2.png"
-  }, {
-    "tag" : "Amazon Web Services - Organizations",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-organizations.png"
-  }, {
-    "tag" : "Amazon Web Services - Organizations Account",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-organizations-account.png"
-  }, {
-    "tag" : "Amazon Web Services - Organizations Organizational unit",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-organizations-organizational-unit.png"
-  }, {
-    "tag" : "Amazon Web Services - Outposts",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-outposts.png"
-  }, {
-    "tag" : "Amazon Web Services - Personal Health Dashboard",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-personal-health-dashboard.png"
-  }, {
-    "tag" : "Amazon Web Services - PrivateLink",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-privatelink.png"
-  }, {
-    "tag" : "Amazon Web Services - Resource Access Manager",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-resource-access-manager.png"
-  }, {
-    "tag" : "Amazon Web Services - RoboMaker",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-robomaker.png"
-  }, {
-    "tag" : "Amazon Web Services - RoboMaker Cloud Extension ROS",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-robomaker-cloud-extension-ros.png"
-  }, {
-    "tag" : "Amazon Web Services - RoboMaker Development Environment",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-robomaker-development-environment.png"
-  }, {
-    "tag" : "Amazon Web Services - RoboMaker Fleet Management",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-robomaker-fleet-management.png"
-  }, {
-    "tag" : "Amazon Web Services - RoboMaker Simulation",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-robomaker-simulation.png"
-  }, {
-    "tag" : "Amazon Web Services - Secrets Manager",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-secrets-manager.png"
-  }, {
-    "tag" : "Amazon Web Services - Security Hub",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-security-hub.png"
-  }, {
-    "tag" : "Amazon Web Services - Server Migration Service",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "aws-server-migration-service.png"
-  }, {
-    "tag" : "Amazon Web Services - Serverless Application Repository",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-serverless-application-repository.png"
-  }, {
-    "tag" : "Amazon Web Services - Service Catalog",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-service-catalog.png"
-  }, {
-    "tag" : "Amazon Web Services - Shield",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-shield.png"
-  }, {
-    "tag" : "Amazon Web Services - Shield Shield Advanced",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-shield-shield-advanced.png"
-  }, {
-    "tag" : "Amazon Web Services - Single Sign On",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-single-sign-on.png"
-  }, {
-    "tag" : "Amazon Web Services - Site to Site VPN",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-site-to-site-vpn.png"
-  }, {
-    "tag" : "Amazon Web Services - Snow Family Snowball Import Export",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-snow-family-snowball-import-export.png"
-  }, {
-    "tag" : "Amazon Web Services - Snowball Edge",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-snowball-edge.png"
-  }, {
-    "tag" : "Amazon Web Services - Snowball",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-snowball.png"
-  }, {
-    "tag" : "Amazon Web Services - Snowmobile",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-snowmobile.png"
-  }, {
-    "tag" : "Amazon Web Services - Step Function",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-step-function.png"
-  }, {
-    "tag" : "Amazon Web Services - Step Functions",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-step-functions.png"
-  }, {
-    "tag" : "Amazon Web Services - Storage Gateway",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-storage-gateway.png"
-  }, {
-    "tag" : "Amazon Web Services - Storage Gateway Cached Volume",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-storage-gateway-cached-volume.png"
-  }, {
-    "tag" : "Amazon Web Services - Storage Gateway Non Cached Volume",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-storage-gateway-non-cached-volume.png"
-  }, {
-    "tag" : "Amazon Web Services - Storage Gateway Virtual Tape Library",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "aws-storage-gateway-virtual-tape-library.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-systems-manager.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager Automation",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-automation.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager Documents",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-documents.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager Inventory",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-inventory.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager Maintenance Windows",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-maintenance-windows.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager Parameter Store",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-parameter-store.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager Patch Manager",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-patch-manager.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager Run Command",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-run-command.png"
-  }, {
-    "tag" : "Amazon Web Services - Systems Manager State Manager",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-systems-manager-state-manager.png"
-  }, {
-    "tag" : "Amazon Web Services - Thinkbox Deadline",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-thinkbox-deadline.png"
-  }, {
-    "tag" : "Amazon Web Services - Thinkbox Draft",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-thinkbox-draft.png"
-  }, {
-    "tag" : "Amazon Web Services - Thinkbox Frost",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-thinkbox-frost.png"
-  }, {
-    "tag" : "Amazon Web Services - Thinkbox Krakatoa",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-thinkbox-krakatoa.png"
-  }, {
-    "tag" : "Amazon Web Services - Thinkbox Sequoia",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-thinkbox-sequoia.png"
-  }, {
-    "tag" : "Amazon Web Services - Thinkbox Stoke",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-thinkbox-stoke.png"
-  }, {
-    "tag" : "Amazon Web Services - Thinkbox XMesh",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "aws-thinkbox-xmesh.png"
-  }, {
-    "tag" : "Amazon Web Services - Tools And SDKs",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "aws-tools-and-sdks.png"
-  }, {
-    "tag" : "Amazon Web Services - Transit Gateway",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "aws-transit-gateway.png"
-  }, {
-    "tag" : "Amazon Web Services - Trusted Advisor",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-trusted-advisor.png"
-  }, {
-    "tag" : "Amazon Web Services - Trusted Advisor Checklist Cost",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-trusted-advisor-checklist-cost.png"
-  }, {
-    "tag" : "Amazon Web Services - Trusted Advisor Checklist Fault Tolerant",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-trusted-advisor-checklist-fault-tolerant.png"
-  }, {
-    "tag" : "Amazon Web Services - Trusted Advisor Checklist Performance",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-trusted-advisor-checklist-performance.png"
-  }, {
-    "tag" : "Amazon Web Services - Trusted Advisor Checklist Security",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-trusted-advisor-checklist-security.png"
-  }, {
-    "tag" : "Amazon Web Services - Trusted Advisor Checklist",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "aws-trusted-advisor-checklist.png"
-  }, {
-    "tag" : "Amazon Web Services - WAF",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-waf.png"
-  }, {
-    "tag" : "Amazon Web Services - WAF Filtering rule",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "aws-waf-filtering-rule.png"
-  }, {
-    "tag" : "Amazon Web Services - Well Architected Tool",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "aws-well-architected-tool.png"
-  }, {
-    "tag" : "Amazon Web Services - X Ray",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "aws-x-ray.png"
-  }, {
-    "tag" : "Amazon Web Services - Alexa For Business",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "alexa-for-business.png"
-  }, {
-    "tag" : "Amazon Web Services - API Gateway",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "amazon-api-gateway.png"
-  }, {
-    "tag" : "Amazon Web Services - API Gateway Endpoint",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "amazon-api-gateway-endpoint.png"
-  }, {
-    "tag" : "Amazon Web Services - Appstream 2",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "amazon-appstream-2-0.png"
-  }, {
-    "tag" : "Amazon Web Services - Athena",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-athena.png"
-  }, {
-    "tag" : "Amazon Web Services - Aurora",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "amazon-aurora.png"
-  }, {
-    "tag" : "Amazon Web Services - Chime",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "amazon-chime.png"
-  }, {
-    "tag" : "Amazon Web Services - Cloud Directory",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "amazon-cloud-directory.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudFront",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-cloudfront.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudFront Download Distribution",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-cloudfront-download-distribution.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudFront Edge Location",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-cloudfront-edge-location.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudFront Streaming Distribution",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-cloudfront-streaming-distribution.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudSearch",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-cloudsearch.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudSearch Search documents",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-cloudsearch-search-documents.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudWatch",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "amazon-cloudwatch.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudWatch Alarm",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "amazon-cloudwatch-alarm.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudWatch Event Event Based",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "amazon-cloudwatch-event-event-based.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudWatch Event Time Based",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "amazon-cloudwatch-event-time-based.png"
-  }, {
-    "tag" : "Amazon Web Services - CloudWatch Rule",
-    "stroke" : "#cd2264",
-    "color" : "#cd2264",
-    "icon" : "amazon-cloudwatch-rule.png"
-  }, {
-    "tag" : "Amazon Web Services - Cognito",
-    "stroke" : "#d6242d",
-    "color" : "#d6242d",
-    "icon" : "amazon-cognito.png"
-  }, {
-    "tag" : "Amazon Web Services - Comprehend",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "amazon-comprehend.png"
-  }, {
-    "tag" : "Amazon Web Services - Connect",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "amazon-connect.png"
   }, {
     "tag" : "Amazon Web Services - DocumentDB with MongoDB compatibility",
     "stroke" : "#3b48cc",
@@ -997,21 +392,6 @@
     "color" : "#3b48cc",
     "icon" : "amazon-dynamodb-table.png"
   }, {
-    "tag" : "Amazon Web Services - EC2 Container Registry",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "amazon-ec2-container-registry.png"
-  }, {
-    "tag" : "Amazon Web Services - EC2 Container Registry Image",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "amazon-ec2-container-registry-image.png"
-  }, {
-    "tag" : "Amazon Web Services - EC2 Container Registry Registry",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "amazon-ec2-container-registry-registry.png"
-  }, {
     "tag" : "Amazon Web Services - EC2",
     "stroke" : "#d86613",
     "color" : "#d86613",
@@ -1046,6 +426,21 @@
     "stroke" : "#d86613",
     "color" : "#d86613",
     "icon" : "amazon-ec2-c5n-instance.png"
+  }, {
+    "tag" : "Amazon Web Services - EC2 Container Registry",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "amazon-ec2-container-registry.png"
+  }, {
+    "tag" : "Amazon Web Services - EC2 Container Registry Image",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "amazon-ec2-container-registry-image.png"
+  }, {
+    "tag" : "Amazon Web Services - EC2 Container Registry Registry",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "amazon-ec2-container-registry-registry.png"
   }, {
     "tag" : "Amazon Web Services - EC2 D2 Instance",
     "stroke" : "#d86613",
@@ -1087,15 +482,15 @@
     "color" : "#d86613",
     "icon" : "amazon-ec2-i3-instance.png"
   }, {
-    "tag" : "Amazon Web Services - EC2 Instance with CloudWatch",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "amazon-ec2-instance-with-cloudwatch.png"
-  }, {
     "tag" : "Amazon Web Services - EC2 Instance",
     "stroke" : "#d86613",
     "color" : "#d86613",
     "icon" : "amazon-ec2-instance.png"
+  }, {
+    "tag" : "Amazon Web Services - EC2 Instance with CloudWatch",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "amazon-ec2-instance-with-cloudwatch.png"
   }, {
     "tag" : "Amazon Web Services - EC2 Instances",
     "stroke" : "#d86613",
@@ -1187,60 +582,25 @@
     "color" : "#d86613",
     "icon" : "amazon-ec2-z1d-instance.png"
   }, {
-    "tag" : "Amazon Web Services - EMR",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-emr.png"
+    "tag" : "Amazon Web Services - Elastic Beanstalk",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elastic-beanstalk.png"
   }, {
-    "tag" : "Amazon Web Services - EMR Cluster",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-emr-cluster.png"
+    "tag" : "Amazon Web Services - Elastic Beanstalk Application",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elastic-beanstalk-application.png"
   }, {
-    "tag" : "Amazon Web Services - EMR EMR engine MapR M3",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-emr-emr-engine-mapr-m3.png"
+    "tag" : "Amazon Web Services - Elastic Beanstalk container",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "elastic-beanstalk-container.png"
   }, {
-    "tag" : "Amazon Web Services - EMR EMR engine MapR M5",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-emr-emr-engine-mapr-m5.png"
-  }, {
-    "tag" : "Amazon Web Services - EMR EMR engine MapR M7",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-emr-emr-engine-mapr-m7.png"
-  }, {
-    "tag" : "Amazon Web Services - EMR EMR engine",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-emr-emr-engine.png"
-  }, {
-    "tag" : "Amazon Web Services - EMR HDFS cluster",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "amazon-emr-hdfs-cluster.png"
-  }, {
-    "tag" : "Amazon Web Services - ElastiCache",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "amazon-elasticache.png"
-  }, {
-    "tag" : "Amazon Web Services - ElastiCache Cache Node",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "amazon-elasticache-cache-node.png"
-  }, {
-    "tag" : "Amazon Web Services - ElastiCache For Memcached",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "amazon-elasticache-for-memcached.png"
-  }, {
-    "tag" : "Amazon Web Services - ElastiCache For Redis",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "amazon-elasticache-for-redis.png"
+    "tag" : "Amazon Web Services - Elastic Beanstalk Deployment",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elastic-beanstalk-deployment.png"
   }, {
     "tag" : "Amazon Web Services - Elastic Block Store EBS",
     "stroke" : "#3f8624",
@@ -1302,35 +662,135 @@
     "color" : "#d86613",
     "icon" : "amazon-elastic-kubernetes-service.png"
   }, {
+    "tag" : "Amazon Web Services - Elastic Load Balancing",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "elastic-load-balancing.png"
+  }, {
+    "tag" : "Amazon Web Services - Elastic Load Balancing Classic load balancer",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "elastic-load-balancing-classic-load-balancer.png"
+  }, {
+    "tag" : "Amazon Web Services - Elastic Load Balancing ELB Application load balancer",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "elastic-load-balancing-elb-application-load-balancer.png"
+  }, {
+    "tag" : "Amazon Web Services - Elastic Load Balancing ELB Network load balancer",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "elastic-load-balancing-elb-network-load-balancer.png"
+  }, {
     "tag" : "Amazon Web Services - Elastic Transcoder",
     "stroke" : "#d86613",
     "color" : "#d86613",
     "icon" : "amazon-elastic-transcoder.png"
+  }, {
+    "tag" : "Amazon Web Services - ElastiCache",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "amazon-elasticache.png"
+  }, {
+    "tag" : "Amazon Web Services - ElastiCache Cache Node",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "amazon-elasticache-cache-node.png"
+  }, {
+    "tag" : "Amazon Web Services - ElastiCache For Memcached",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "amazon-elasticache-for-memcached.png"
+  }, {
+    "tag" : "Amazon Web Services - ElastiCache For Redis",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "amazon-elasticache-for-redis.png"
   }, {
     "tag" : "Amazon Web Services - Elasticsearch Service",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "amazon-elasticsearch-service.png"
   }, {
+    "tag" : "Amazon Web Services - Elemental MediaConnect",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elemental-mediaconnect.png"
+  }, {
+    "tag" : "Amazon Web Services - Elemental MediaConvert",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elemental-mediaconvert.png"
+  }, {
+    "tag" : "Amazon Web Services - Elemental MediaLive",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elemental-medialive.png"
+  }, {
+    "tag" : "Amazon Web Services - Elemental MediaPackage",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elemental-mediapackage.png"
+  }, {
+    "tag" : "Amazon Web Services - Elemental MediaStore",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elemental-mediastore.png"
+  }, {
+    "tag" : "Amazon Web Services - Elemental MediaTailor",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-elemental-mediatailor.png"
+  }, {
+    "tag" : "Amazon Web Services - EMR",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-emr.png"
+  }, {
+    "tag" : "Amazon Web Services - EMR Cluster",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-emr-cluster.png"
+  }, {
+    "tag" : "Amazon Web Services - EMR EMR engine",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-emr-emr-engine.png"
+  }, {
+    "tag" : "Amazon Web Services - EMR EMR engine MapR M3",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-emr-emr-engine-mapr-m3.png"
+  }, {
+    "tag" : "Amazon Web Services - EMR EMR engine MapR M5",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-emr-emr-engine-mapr-m5.png"
+  }, {
+    "tag" : "Amazon Web Services - EMR EMR engine MapR M7",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-emr-emr-engine-mapr-m7.png"
+  }, {
+    "tag" : "Amazon Web Services - EMR HDFS cluster",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-emr-hdfs-cluster.png"
+  }, {
     "tag" : "Amazon Web Services - EventBridge",
     "stroke" : "#cd2264",
     "color" : "#cd2264",
     "icon" : "amazon-eventbridge.png"
   }, {
-    "tag" : "Amazon Web Services - FSx for Lustre",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "amazon-fsx-for-lustre.png"
+    "tag" : "Amazon Web Services - Fargate",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-fargate.png"
   }, {
-    "tag" : "Amazon Web Services - FSx for Windows File Server",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "amazon-fsx-for-windows-file-server.png"
-  }, {
-    "tag" : "Amazon Web Services - FSx",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "amazon-fsx.png"
+    "tag" : "Amazon Web Services - Firewall Manager",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-firewall-manager.png"
   }, {
     "tag" : "Amazon Web Services - Forecast",
     "stroke" : "#1c7b68",
@@ -1342,15 +802,110 @@
     "color" : "#3f8624",
     "icon" : "amazon-freertos.png"
   }, {
+    "tag" : "Amazon Web Services - FSx",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "amazon-fsx.png"
+  }, {
+    "tag" : "Amazon Web Services - FSx for Lustre",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "amazon-fsx-for-lustre.png"
+  }, {
+    "tag" : "Amazon Web Services - FSx for Windows File Server",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "amazon-fsx-for-windows-file-server.png"
+  }, {
     "tag" : "Amazon Web Services - GameLift",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "amazon-gamelift.png"
   }, {
+    "tag" : "Amazon Web Services - Global Accelerator",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-global-accelerator.png"
+  }, {
+    "tag" : "Amazon Web Services - Glue",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-glue.png"
+  }, {
+    "tag" : "Amazon Web Services - Glue Crawlers",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-glue-crawlers.png"
+  }, {
+    "tag" : "Amazon Web Services - Glue Data catalog",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-glue-data-catalog.png"
+  }, {
+    "tag" : "Amazon Web Services - Ground Station",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "aws-ground-station.png"
+  }, {
     "tag" : "Amazon Web Services - GuardDuty",
     "stroke" : "#d6242d",
     "color" : "#d6242d",
     "icon" : "amazon-guardduty.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM Add on",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-add-on.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM AWS STS",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-aws-sts.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM AWS STS Alternate",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-aws-sts-alternate.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM Data Encryption Key",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-data-encryption-key.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM Encrypted Data",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-encrypted-data.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM Long term Security Credential",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-long-term-security-credential.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM MFA Token",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-mfa-token.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM Permissions",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-permissions.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM Role",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-role.png"
+  }, {
+    "tag" : "Amazon Web Services - Identity and Access Management IAM Temporary Security Credential",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-identity-and-access-management-iam-temporary-security-credential.png"
   }, {
     "tag" : "Amazon Web Services - Inspector",
     "stroke" : "#d6242d",
@@ -1361,6 +916,101 @@
     "stroke" : "#d6242d",
     "color" : "#d6242d",
     "icon" : "amazon-inspector-agent.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT 1 Click",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-1-click.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Analytics",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-analytics.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Analytics Channel",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-analytics-channel.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Analytics Data Set",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-analytics-data-set.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Analytics Data Store",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-analytics-data-store.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Analytics Notebook",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-analytics-notebook.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Analytics Pipeline",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-analytics-pipeline.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Button",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-button.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Core",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-core.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Device Defender",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-device-defender.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Device Management",
+    "stroke" : "#60a337",
+    "color" : "#60a337",
+    "icon" : "aws-iot-device-management.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Events",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-events.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Greengrass",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-greengrass.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Greengrass Connector",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-greengrass-connector.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT SiteWise",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-sitewise.png"
+  }, {
+    "tag" : "Amazon Web Services - IoT Things Graph",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-iot-things-graph.png"
+  }, {
+    "tag" : "Amazon Web Services - IQ",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "aws-iq.png"
+  }, {
+    "tag" : "Amazon Web Services - Key Management Service",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-key-management-service.png"
+  }, {
+    "tag" : "Amazon Web Services - Kinesis",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "amazon-kinesis.png"
   }, {
     "tag" : "Amazon Web Services - Kinesis Data Analytics",
     "stroke" : "#693cc5",
@@ -1382,25 +1032,35 @@
     "color" : "#d86613",
     "icon" : "amazon-kinesis-video-streams.png"
   }, {
-    "tag" : "Amazon Web Services - Kinesis",
+    "tag" : "Amazon Web Services - Lake Formation",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
-    "icon" : "amazon-kinesis.png"
+    "icon" : "aws-lake-formation.png"
+  }, {
+    "tag" : "Amazon Web Services - Lambda",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-lambda.png"
+  }, {
+    "tag" : "Amazon Web Services - Lambda Lambda Function",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-lambda-lambda-function.png"
   }, {
     "tag" : "Amazon Web Services - Lex",
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "amazon-lex.png"
   }, {
+    "tag" : "Amazon Web Services - License Manager",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-license-manager.png"
+  }, {
     "tag" : "Amazon Web Services - Lightsail",
     "stroke" : "#d86613",
     "color" : "#d86613",
     "icon" : "amazon-lightsail.png"
-  }, {
-    "tag" : "Amazon Web Services - MQ",
-    "stroke" : "#cc2264",
-    "color" : "#cc2264",
-    "icon" : "amazon-mq.png"
   }, {
     "tag" : "Amazon Web Services - Macie",
     "stroke" : "#d6242d",
@@ -1412,15 +1072,115 @@
     "color" : "#d86613",
     "icon" : "amazon-managed-blockchain.png"
   }, {
+    "tag" : "Amazon Web Services - Managed Microsoft AD",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-managed-microsoft-ad.png"
+  }, {
+    "tag" : "Amazon Web Services - Managed Services",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-managed-services.png"
+  }, {
     "tag" : "Amazon Web Services - Managed Streaming for Kafka",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "amazon-managed-streaming-for-kafka.png"
   }, {
+    "tag" : "Amazon Web Services - Management Console",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-management-console.png"
+  }, {
+    "tag" : "Amazon Web Services - Marketplace",
+    "stroke" : "#232f3e",
+    "color" : "#232f3e",
+    "icon" : "aws-marketplace.png"
+  }, {
+    "tag" : "Amazon Web Services - Migration Hub",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "aws-migration-hub.png"
+  }, {
+    "tag" : "Amazon Web Services - MQ",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "amazon-mq.png"
+  }, {
     "tag" : "Amazon Web Services - Neptune",
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
     "icon" : "amazon-neptune.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-opsworks.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Apps",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-apps.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Deployments",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-deployments.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Instances",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-instances.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Layers",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-layers.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Monitoring",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-monitoring.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Permissions",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-permissions.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Resources",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-resources.png"
+  }, {
+    "tag" : "Amazon Web Services - OpsWorks Stack2",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-opsworks-stack2.png"
+  }, {
+    "tag" : "Amazon Web Services - Organizations",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-organizations.png"
+  }, {
+    "tag" : "Amazon Web Services - Organizations Account",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-organizations-account.png"
+  }, {
+    "tag" : "Amazon Web Services - Organizations Organizational unit",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-organizations-organizational-unit.png"
+  }, {
+    "tag" : "Amazon Web Services - Outposts",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-outposts.png"
+  }, {
+    "tag" : "Amazon Web Services - Personal Health Dashboard",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-personal-health-dashboard.png"
   }, {
     "tag" : "Amazon Web Services - Personalize",
     "stroke" : "#1c7b68",
@@ -1437,6 +1197,11 @@
     "color" : "#1c7b68",
     "icon" : "amazon-polly.png"
   }, {
+    "tag" : "Amazon Web Services - PrivateLink",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-privatelink.png"
+  }, {
     "tag" : "Amazon Web Services - Quantum Ledger Database QLDB",
     "stroke" : "#d86613",
     "color" : "#d86613",
@@ -1446,11 +1211,6 @@
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "amazon-quicksight.png"
-  }, {
-    "tag" : "Amazon Web Services - RDS on VMware",
-    "stroke" : "#3b48cc",
-    "color" : "#3b48cc",
-    "icon" : "amazon-rds-on-vmware.png"
   }, {
     "tag" : "Amazon Web Services - RDS",
     "stroke" : "#3b48cc",
@@ -1476,6 +1236,11 @@
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
     "icon" : "amazon-rds-mysql-instance.png"
+  }, {
+    "tag" : "Amazon Web Services - RDS on VMware",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "amazon-rds-on-vmware.png"
   }, {
     "tag" : "Amazon Web Services - RDS Oracle instance",
     "stroke" : "#3b48cc",
@@ -1507,6 +1272,11 @@
     "color" : "#3b48cc",
     "icon" : "amazon-redshift-dense-storage-node.png"
   }, {
+    "tag" : "Amazon Web Services - Region",
+    "stroke" : "#147eba",
+    "color" : "#147eba",
+    "icon" : "region.png"
+  }, {
     "tag" : "Amazon Web Services - Rekognition",
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
@@ -1521,6 +1291,36 @@
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "amazon-rekognition-video.png"
+  }, {
+    "tag" : "Amazon Web Services - Resource Access Manager",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-resource-access-manager.png"
+  }, {
+    "tag" : "Amazon Web Services - RoboMaker",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-robomaker.png"
+  }, {
+    "tag" : "Amazon Web Services - RoboMaker Cloud Extension ROS",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-robomaker-cloud-extension-ros.png"
+  }, {
+    "tag" : "Amazon Web Services - RoboMaker Development Environment",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-robomaker-development-environment.png"
+  }, {
+    "tag" : "Amazon Web Services - RoboMaker Fleet Management",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-robomaker-fleet-management.png"
+  }, {
+    "tag" : "Amazon Web Services - RoboMaker Simulation",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-robomaker-simulation.png"
   }, {
     "tag" : "Amazon Web Services - Route 53",
     "stroke" : "#693cc5",
@@ -1552,15 +1352,15 @@
     "color" : "#3f8624",
     "icon" : "amazon-s3-glacier-vault.png"
   }, {
-    "tag" : "Amazon Web Services - SageMaker Ground Truth",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "amazon-sagemaker-ground-truth.png"
-  }, {
     "tag" : "Amazon Web Services - SageMaker",
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "amazon-sagemaker.png"
+  }, {
+    "tag" : "Amazon Web Services - SageMaker Ground Truth",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "amazon-sagemaker-ground-truth.png"
   }, {
     "tag" : "Amazon Web Services - SageMaker Model",
     "stroke" : "#1c7b68",
@@ -1576,6 +1376,46 @@
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "amazon-sagemaker-train.png"
+  }, {
+    "tag" : "Amazon Web Services - Secrets Manager",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-secrets-manager.png"
+  }, {
+    "tag" : "Amazon Web Services - Security Hub",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-security-hub.png"
+  }, {
+    "tag" : "Amazon Web Services - Server contents",
+    "stroke" : "#5a6c86",
+    "color" : "#5a6c86",
+    "icon" : "server-contents.png"
+  }, {
+    "tag" : "Amazon Web Services - Server Migration Service",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "aws-server-migration-service.png"
+  }, {
+    "tag" : "Amazon Web Services - Serverless Application Repository",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-serverless-application-repository.png"
+  }, {
+    "tag" : "Amazon Web Services - Service Catalog",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-service-catalog.png"
+  }, {
+    "tag" : "Amazon Web Services - Shield",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-shield.png"
+  }, {
+    "tag" : "Amazon Web Services - Shield Shield Advanced",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-shield-shield-advanced.png"
   }, {
     "tag" : "Amazon Web Services - Simple Email Service SES",
     "stroke" : "#3b48cc",
@@ -1627,45 +1467,245 @@
     "color" : "#3f8624",
     "icon" : "amazon-simple-storage-service-s3.png"
   }, {
-    "tag" : "Amazon Web Services - Simple Storage Service S3 Bucket with Objects",
-    "stroke" : "#3f8624",
-    "color" : "#3f8624",
-    "icon" : "amazon-simple-storage-service-s3-bucket-with-objects.png"
-  }, {
     "tag" : "Amazon Web Services - Simple Storage Service S3 Bucket",
     "stroke" : "#3f8624",
     "color" : "#3f8624",
     "icon" : "amazon-simple-storage-service-s3-bucket.png"
+  }, {
+    "tag" : "Amazon Web Services - Simple Storage Service S3 Bucket with Objects",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "amazon-simple-storage-service-s3-bucket-with-objects.png"
   }, {
     "tag" : "Amazon Web Services - Simple Storage Service S3 Object",
     "stroke" : "#3f8624",
     "color" : "#3f8624",
     "icon" : "amazon-simple-storage-service-s3-object.png"
   }, {
+    "tag" : "Amazon Web Services - Single Sign On",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-single-sign-on.png"
+  }, {
+    "tag" : "Amazon Web Services - Site to Site VPN",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-site-to-site-vpn.png"
+  }, {
+    "tag" : "Amazon Web Services - Snow Family Snowball Import Export",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-snow-family-snowball-import-export.png"
+  }, {
+    "tag" : "Amazon Web Services - Snowball",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-snowball.png"
+  }, {
+    "tag" : "Amazon Web Services - Snowball Edge",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-snowball-edge.png"
+  }, {
+    "tag" : "Amazon Web Services - Snowmobile",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-snowmobile.png"
+  }, {
+    "tag" : "Amazon Web Services - Spot fleet",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "spot-fleet.png"
+  }, {
+    "tag" : "Amazon Web Services - Step Function",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-step-function.png"
+  }, {
+    "tag" : "Amazon Web Services - Step Functions",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-step-functions.png"
+  }, {
+    "tag" : "Amazon Web Services - Storage Gateway",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-storage-gateway.png"
+  }, {
+    "tag" : "Amazon Web Services - Storage Gateway Cached Volume",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-storage-gateway-cached-volume.png"
+  }, {
+    "tag" : "Amazon Web Services - Storage Gateway Non Cached Volume",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-storage-gateway-non-cached-volume.png"
+  }, {
+    "tag" : "Amazon Web Services - Storage Gateway Virtual Tape Library",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "aws-storage-gateway-virtual-tape-library.png"
+  }, {
     "tag" : "Amazon Web Services - Sumerian",
     "stroke" : "#cc2264",
     "color" : "#cc2264",
     "icon" : "amazon-sumerian.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-systems-manager.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager Automation",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-automation.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager Documents",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-documents.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager Inventory",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-inventory.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager Maintenance Windows",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-maintenance-windows.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager Parameter Store",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-parameter-store.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager Patch Manager",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-patch-manager.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager Run Command",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-run-command.png"
+  }, {
+    "tag" : "Amazon Web Services - Systems Manager State Manager",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-systems-manager-state-manager.png"
+  }, {
+    "tag" : "Amazon Web Services - TensorFlow on AWS",
+    "stroke" : "#1c7b68",
+    "color" : "#1c7b68",
+    "icon" : "tensorflow-on-aws.png"
   }, {
     "tag" : "Amazon Web Services - Textract",
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "amazon-textract.png"
   }, {
+    "tag" : "Amazon Web Services - Thinkbox Deadline",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-thinkbox-deadline.png"
+  }, {
+    "tag" : "Amazon Web Services - Thinkbox Draft",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-thinkbox-draft.png"
+  }, {
+    "tag" : "Amazon Web Services - Thinkbox Frost",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-thinkbox-frost.png"
+  }, {
+    "tag" : "Amazon Web Services - Thinkbox Krakatoa",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-thinkbox-krakatoa.png"
+  }, {
+    "tag" : "Amazon Web Services - Thinkbox Sequoia",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-thinkbox-sequoia.png"
+  }, {
+    "tag" : "Amazon Web Services - Thinkbox Stoke",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-thinkbox-stoke.png"
+  }, {
+    "tag" : "Amazon Web Services - Thinkbox XMesh",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "aws-thinkbox-xmesh.png"
+  }, {
     "tag" : "Amazon Web Services - Timestream",
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
     "icon" : "amazon-timestream.png"
+  }, {
+    "tag" : "Amazon Web Services - Tools And SDKs",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "aws-tools-and-sdks.png"
   }, {
     "tag" : "Amazon Web Services - Transcribe",
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "amazon-transcribe.png"
   }, {
+    "tag" : "Amazon Web Services - Transit Gateway",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "aws-transit-gateway.png"
+  }, {
     "tag" : "Amazon Web Services - Translate",
     "stroke" : "#1c7b68",
     "color" : "#1c7b68",
     "icon" : "amazon-translate.png"
+  }, {
+    "tag" : "Amazon Web Services - Trusted Advisor",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-trusted-advisor.png"
+  }, {
+    "tag" : "Amazon Web Services - Trusted Advisor Checklist",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-trusted-advisor-checklist.png"
+  }, {
+    "tag" : "Amazon Web Services - Trusted Advisor Checklist Cost",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-trusted-advisor-checklist-cost.png"
+  }, {
+    "tag" : "Amazon Web Services - Trusted Advisor Checklist Fault Tolerant",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-trusted-advisor-checklist-fault-tolerant.png"
+  }, {
+    "tag" : "Amazon Web Services - Trusted Advisor Checklist Performance",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-trusted-advisor-checklist-performance.png"
+  }, {
+    "tag" : "Amazon Web Services - Trusted Advisor Checklist Security",
+    "stroke" : "#cd2264",
+    "color" : "#cd2264",
+    "icon" : "aws-trusted-advisor-checklist-security.png"
+  }, {
+    "tag" : "Amazon Web Services - Virtual private cloud VPC",
+    "stroke" : "#248814",
+    "color" : "#248814",
+    "icon" : "virtual-private-cloud-vpc.png"
+  }, {
+    "tag" : "Amazon Web Services - VMware Cloud On AWS",
+    "stroke" : "#d86613",
+    "color" : "#d86613",
+    "icon" : "vmware-cloud-on-aws.png"
   }, {
     "tag" : "Amazon Web Services - VPC",
     "stroke" : "#693cc5",
@@ -1722,6 +1762,16 @@
     "color" : "#693cc5",
     "icon" : "amazon-vpc-router.png"
   }, {
+    "tag" : "Amazon Web Services - VPC subnet private",
+    "stroke" : "#147eba",
+    "color" : "#147eba",
+    "icon" : "vpc-subnet-private.png"
+  }, {
+    "tag" : "Amazon Web Services - VPC subnet public",
+    "stroke" : "#248814",
+    "color" : "#248814",
+    "icon" : "vpc-subnet-public.png"
+  }, {
     "tag" : "Amazon Web Services - VPC VPN Connection",
     "stroke" : "#693cc5",
     "color" : "#693cc5",
@@ -1731,6 +1781,21 @@
     "stroke" : "#693cc5",
     "color" : "#693cc5",
     "icon" : "amazon-vpc-vpn-gateway.png"
+  }, {
+    "tag" : "Amazon Web Services - WAF",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-waf.png"
+  }, {
+    "tag" : "Amazon Web Services - WAF Filtering rule",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
+    "icon" : "aws-waf-filtering-rule.png"
+  }, {
+    "tag" : "Amazon Web Services - Well Architected Tool",
+    "stroke" : "#cc2264",
+    "color" : "#cc2264",
+    "icon" : "aws-well-architected-tool.png"
   }, {
     "tag" : "Amazon Web Services - WorkDocs",
     "stroke" : "#1c7b68",
@@ -1752,74 +1817,9 @@
     "color" : "#1c7b68",
     "icon" : "amazon-workspaces.png"
   }, {
-    "tag" : "Amazon Web Services - Corporate data center",
-    "stroke" : "#5a6c86",
-    "color" : "#5a6c86",
-    "icon" : "corporate-data-center.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Beanstalk container",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "elastic-beanstalk-container.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Load Balancing ELB Application load balancer",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "elastic-load-balancing-elb-application-load-balancer.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Load Balancing ELB Network load balancer",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "elastic-load-balancing-elb-network-load-balancer.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Load Balancing",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "elastic-load-balancing.png"
-  }, {
-    "tag" : "Amazon Web Services - Elastic Load Balancing Classic load balancer",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
-    "icon" : "elastic-load-balancing-classic-load-balancer.png"
-  }, {
-    "tag" : "Amazon Web Services - Region",
-    "stroke" : "#147eba",
-    "color" : "#147eba",
-    "icon" : "region.png"
-  }, {
-    "tag" : "Amazon Web Services - Server contents",
-    "stroke" : "#5a6c86",
-    "color" : "#5a6c86",
-    "icon" : "server-contents.png"
-  }, {
-    "tag" : "Amazon Web Services - Spot fleet",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "spot-fleet.png"
-  }, {
-    "tag" : "Amazon Web Services - TensorFlow on AWS",
-    "stroke" : "#1c7b68",
-    "color" : "#1c7b68",
-    "icon" : "tensorflow-on-aws.png"
-  }, {
-    "tag" : "Amazon Web Services - VMware Cloud On AWS",
-    "stroke" : "#d86613",
-    "color" : "#d86613",
-    "icon" : "vmware-cloud-on-aws.png"
-  }, {
-    "tag" : "Amazon Web Services - VPC subnet private",
-    "stroke" : "#147eba",
-    "color" : "#147eba",
-    "icon" : "vpc-subnet-private.png"
-  }, {
-    "tag" : "Amazon Web Services - VPC subnet public",
-    "stroke" : "#248814",
-    "color" : "#248814",
-    "icon" : "vpc-subnet-public.png"
-  }, {
-    "tag" : "Amazon Web Services - Virtual private cloud VPC",
-    "stroke" : "#248814",
-    "color" : "#248814",
-    "icon" : "virtual-private-cloud-vpc.png"
+    "tag" : "Amazon Web Services - X Ray",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "aws-x-ray.png"
   } ]
 }
